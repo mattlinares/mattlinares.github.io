@@ -13,6 +13,6 @@ The skill may fade and their enthusiasm to protect their data goes to waste.
 
 One answer is to find a pen pal to share encrypted emails with.
 
-So I made [cryptopals.org](http://www.cryptopals.org "cryptopals.org"
+So I made [cryptopals.org](http://www.cryptopals.org "cryptopals.org")
 
 Find youself a friendly stranger or make yourself available for encrypted comms with another, for your own good and for the good of the culture.
