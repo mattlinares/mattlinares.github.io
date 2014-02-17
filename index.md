@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects and thoughts
-tagline: Digital home of web producer and thinker Matt Linares. <a href='mailto:info@microsplash.org'>Get in touch about anything here or other projects</a>.
+tagline: Digital home of web producer and opinionator Matt Linares. <a href='mailto:info@microsplash.org'>Get in touch about anything here or other projects</a>.
 ---
 {% include JB/setup %}
 
