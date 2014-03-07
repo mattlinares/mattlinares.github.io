@@ -22,47 +22,49 @@ Registration for the sessions closes on the 12th March. To register to attend or
 
 ## Schedule ##
 
-** Saturday ** (Activities subject to change)
+**Saturday**
 
-** Intro and discussion **
+*Activities subject to change*
+
+**Intro and discussion**
 
 Open discussion, increasing our understanding of technology both now and in the future. Email is our case-study
 
-** Email encryption workshop **
+**Email encryption workshop**
 
 Learn to encrypt email, discuss threat models
 
-** Communication for humans **
+**Communication for humans**
 
 Refreshing and grounding our understanding of ourselves
 Reflections on the fundamentals of communication abstracted from the digital
 
-** Design Fictions **
+**Design Fictions**
 
 Immersion in possible futures, confronting complex tech
 
-** Night time communion **
+**Night time communion**
 
 Sensory sessions and storytelling
 
 
 ## Sunday ##
 
-** Discussion continued **
+**Discussion continued**
 
-** Alter-sensory lunch **
+**Alter-sensory lunch**
 
 Blindfolded breakfast where participants feed each other.
 
-** Design fictions continued **
+**Design fictions continued**
 
 Tools for empowerment in the possible future
 
-** Back to nature **
+**Back to nature**
 
 Exploration of ancient/primal forms and sensibilities in the natural settings. Activities take place outdoors
 Exercises to help get out of your head and into your body
 
-** Session ends - Reflection and revision **
+**Session ends - Reflection and revision**
 
 For more information contact [theabstractarts@gmail.com](mailto:theabstractarts@gmail.com)
