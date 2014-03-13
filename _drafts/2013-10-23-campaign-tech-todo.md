@@ -28,11 +28,11 @@ It has already led to sites, such as sex education resources, being improperly b
 Besides this, there are good arguments against forcing all web users to declare their intention to download porn and other 'deviant' material. Designed to protect children from troubling content online, the law would shift responsibility from parents who give children web access to others who access that which the government finds unsavoury.
 
 
-h3. General esoterics
+### General esoterics
 
 Our protest solution Repository and api (wordpress call, cms import?) to allow site owners to insert 'esoteric' material in their site to protest the opt-out internet filter
 
-h3. Chances of success
+### Chances of success
 
 Exceedingly low, save for massive support from very many large-scale 
 
