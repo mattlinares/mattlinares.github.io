@@ -17,7 +17,7 @@ Over two days, participants will be invited to discuss these and an open-ended f
 
 The event will run from 11am the morning of Saturday 15th March to late in the afternoon of Sunday 16th. Food and dormitory sleeping will be provided.
 
-Registration for the sessions closes on the 12th March. To register to attend or for more information contact [theabstractarts@gmail.com](mailto:theabstractarts@gmail.com)
+Registration for the sessions closes on the 12th March. To register to attend or for more information contact [theabstractarts@gmail.com](mailto:info@microsplash.org)
 
 
 ## Schedule ##
