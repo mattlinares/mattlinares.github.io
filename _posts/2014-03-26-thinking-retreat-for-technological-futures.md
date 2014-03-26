@@ -11,7 +11,7 @@ As technology hurtles on, our lives are altered in ways we may not understand or
 
 Yet there's not always time, space and support to comfortably come to terms with it all. It's a widely held feeling and one which can unsettle and alienate us.
 
-So, a fellow tinkerer and I devised a thinking retreat for concerned individuals, named Technology for Humans. We found a calm, green setting for a two day, residential getaway with varied discussions and workshops prepared for the group of ten who joined us earlier this month.
+So, Phillida, a fellow tinkerer, and I devised a thinking retreat for concerned individuals, named Technology for Humans. We found a calm, green setting for a two day, residential getaway with varied discussions and workshops prepared for the group of ten who joined us earlier this month.
 
 It was a place for people to think and learn about the effects of prevalent trends, the internet, ubiquitous mobiles, surveillance and other issues mostly on the subject of digital technology. We asked them to voice their questions, share their answers, express intuitions and make decisions on it all.
 
