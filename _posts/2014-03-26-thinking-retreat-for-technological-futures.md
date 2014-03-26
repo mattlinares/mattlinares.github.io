@@ -7,9 +7,6 @@ tags: [Event, Encryption, Email, Cryptopals]
 ---
 {% include JB/setup %}
 
-A thinking retreat for future's sake
-====================================
-
 As technology hurtles on, our lives are altered in ways we may not understand or accept. Some say that the pace of change is greater than ever and accelerating. Personal efforts to keep up are important for a confident, happy existence. Even those who do keep up often feel aspects of their human faculties wither and warp.
 
 Yet there's not always time, space and support to comfortably come to terms with it all. It's a widely held feeling and one which can unsettle and alienate us.
