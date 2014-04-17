@@ -1,3 +1,29 @@
+/* Matt styles */
+body {
+  font-family: 'Averia Serif Libre', cursive;
+}
+
+.image-right-box {
+  float: right;
+  margin: 0 0 20px 20px;
+  background-color: #E0D9D1;
+  padding: 8px;
+}
+
+.image-right {
+  display:block;
+  margin-bottom: 5px;
+  width: 100%;
+}
+
+.small {
+  width: 30%;
+}
+
+.large {
+  width: 45%;
+}
+
 /* Custom container */
 .container-narrow {
   margin: 0 auto;

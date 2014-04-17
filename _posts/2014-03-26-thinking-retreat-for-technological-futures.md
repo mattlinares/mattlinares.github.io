@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A thinking retreat for future's sake"
+title: "A thinking retreat for future&rsquo;s sake"
 description: ""
 category: ""
 tags: [Event, Encryption, Email, Cryptopals]
@@ -19,6 +19,10 @@ It was a place for people to think and learn about the effects of prevalent tren
 Case by case, step by step
 --------------------------
 
+<div class="image-right-box small"><img class="image-right" src='/images/t4h-encryption.jpg'>
+	<p>Sharing encryption skills.</p>
+</div>
+
 We focused on specific technologies, like email, took time to understand more, [unearthed lesser seen implications](https://immersion.media.mit.edu/viz#) and reassessed it on our own terms. In the last year, Snowden and company showed us how email has become an unprecedented tool for mass surveillance.
 
 But people are often lost for a constructive response on the matter. This was a chance to consider and demystify our feelings and propose personal changes.
@@ -35,27 +39,18 @@ Technology can bring efficiency and delight, but with other outcomes. It transfo
 
 We sought to examine these aspects too. Exercises in memory making and reflection on forms lost in the digital age were intended to remind and reconnect us. We produced [our own memory palaces](http://www.wikihow.com/Build-a-Memory-Palace) as a means of exploring and building that ageing but quite extraordinary technology.
 
+<div class="image-right-box large"><img class="image-right" src='/images/t4h-blind-fictions.jpg' width="300px">
+	<p style="display: inline;">Fictional scenarios were played out to make contemplation more vivid.</p>
+</div>
+
 Other modes and senses were honoured with activities such as blinded tours and role-play future fictions to stimulate the imagination.
 
 
-Thinking retreats in a nearby future
+Thinking time in a nearby future
 ------------------------------------
 
 The event was a model for a longer, deeper retreat tackling these difficult, neglected questions. We know that people need opportunities to upgrade their understanding and reposition themselves.
 
-The strange shapes of the future will keep on reconfiguring our lives and thoughts. As they do so, training will be required for all who wish to meet them with confidence, nous and humanity.
+The strange shapes of the future will keep on reconfiguring our lives and thoughts. As they do so, training will be useful to all who wish to meet them with confidence, nous and humanity.
 
 We are working on precisely that.
-
-
-
-
-
-
-
-
-
-
-
-
-
