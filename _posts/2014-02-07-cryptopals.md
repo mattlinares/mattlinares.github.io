@@ -9,6 +9,8 @@ tags: [Project, Encryption, Email, Cryptopals]
 
 As interest grows in data self-defence, more people are learning to encrypt their own emails. Often, they will learn the skills but find they have nobody to practice with.
 
+<!--more-->
+
 The skill may fade and their enthusiasm to protect their data goes to waste.
 
 One answer is to find a pen pal to share encrypted emails with.

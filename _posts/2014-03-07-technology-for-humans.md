@@ -4,6 +4,7 @@ title: "Event notice: Technology for Humans"
 description: ""
 category: ""
 tags: [Retreat, Technology, Philosophy, Humanity]
+excerpt: This March we host Technology for Humans, a two-day residential event exploring what it is to be an engaged human within the fast unfolding reality of technological change.
 ---
 {% include JB/setup %}
 

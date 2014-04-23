@@ -15,6 +15,8 @@ author :
   email : matthewlinares@gmail.com
   github : mattlinares
 
+excerpt_separator: <!--more-->
+
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
 # Most places will/should use BASE_PATH to make the urls
@@ -24,6 +26,8 @@ author :
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
 production_url : http://mattlinares.github.io
+
+markdown: kramdown
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #

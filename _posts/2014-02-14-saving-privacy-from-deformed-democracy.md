@@ -4,12 +4,15 @@ title: "Writing: Saving Privacy from Deformed Democracy"
 description: ""
 category: ""
 tags: [Project, Encryption, Email, Cryptopals]
+excerpt: With focus on the government's grip over surveillance, the public debate over privacy has ignored citizen-led data initiatives to regain power in the digital age.
 ---
 {% include JB/setup %}
 
 [Here is my recent article in Open Democracy](http://www.opendemocracy.net/opensecurity/matthew-linares/saving-privacy-from-deformed-democracy)
 
 **With focus on the government's grip over surveillance, the public debate over privacy has ignored citizen-led data initiatives to regain power in the digital age - and the war being waged against them.**
+
+<!--more-->
 
 The flurry of commentary on Edward Snowden's revelations goes some way to affirming why privacy is a critical aspect of a healthy society. Beyond that debate, we must face the reality that an individual's expectation of privacy has been badly eroded. The task of restoring it cannot be left with the institutions that vigorously dismantled it.
 

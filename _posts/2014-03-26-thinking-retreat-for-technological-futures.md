@@ -9,6 +9,8 @@ tags: [Event, Encryption, Email, Cryptopals]
 
 As technology hurtles on, our lives are altered in ways we may not understand or accept. Some say that the pace of change is greater than ever and accelerating. Personal efforts to keep up are important for a confident, happy existence. Even those who do keep up often feel aspects of their human faculties wither and warp.
 
+<!--more-->
+
 Yet there's not always time, space and support to comfortably come to terms with it all. It's a widely held feeling and one which can unsettle and alienate us.
 
 So, Phillida, a fellow tinkerer, and I devised a thinking retreat for concerned individuals, named Technology for Humans. We found a calm, green setting for a two day, residential getaway with varied discussions and workshops prepared for the group of ten who joined us earlier this month.
