@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Reflective retreat: Technology for Humans"
+title: "Event notice: Technology for Humans"
 description: ""
 category: ""
 tags: [Retreat, Technology, Philosophy, Humanity]
@@ -22,7 +22,8 @@ Registration for the sessions closes on the 12th March. To register to attend or
 
 ## Schedule ##
 
-**Saturday**
+Saturday
+--------
 
 *Activities subject to change*
 
@@ -48,7 +49,8 @@ Immersion in possible futures, confronting complex tech
 Sensory sessions and storytelling
 
 
-## Sunday ##
+Sunday
+------
 
 **Discussion continued**
 
