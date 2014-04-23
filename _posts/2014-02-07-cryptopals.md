@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Get an encrypted email pal"
+title: "Project: Get an encrypted email pal"
 description: ""
 category: ""
 tags: [Project, Encryption, Email, Cryptopals]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A thinking retreat for future&rsquo;s sake"
+title: "Report: A thinking retreat for future&rsquo;s sake"
 description: ""
 category: ""
 tags: [Event, Encryption, Email, Cryptopals]
