@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Project Microsplash: Hope Hamper debrief"
+title: "Project: Hope Hamper debrief"
 description: "Food bank microsatire decommissioned"
 category: "Information"
 tags: [Project, Microsplash, Hope Hamper, inequality, economics, poverty]
-excerpt: We have just decommissioned, the most recent site from the Microsplash project. The site professed to offer a brash food delivery box aimed at the very poorest.
+excerpt: We have just decommissioned the most recent Microsplash. The site professed to offer a rather offensive food delivery box aimed at the poor.
 ---
 {% include JB/setup %}
 
@@ -12,7 +12,7 @@ excerpt: We have just decommissioned, the most recent site from the Microsplash 
 	<p>Milking the poor, or making a point?</p>
 </div>
 
-We have just decommissioned [Hope Hamper](http://hopehamper.microsplash.org), the most recent site from [the Microsplash project](http://www.microsplash.org). The site professed to offer a brash food delivery box aimed at the very poorest.
+We have just decommissioned [Hope Hamper](http://hopehamper.microsplash.org) the most recent site from [the Microsplash project](http://www.microsplash.org). The site professed to offer a brash food delivery box aimed at the very poorest.
 
 Launched this time last year, the site saw significantly less engagement than previous outing [Hackney Haute](http://www.hackneyhaute.com) which appeared in [The Guardian](http://www.guardian.co.uk/artanddesign/architecture-design-blog/2013/mar/12/david-adjaye-hackney-fashion-hub), [the Architects Journal](http://www.architectsjournal.co.uk/culture/haute-hackney-spoof-website-lampoons-gentrification-plans/8643753.article?blocktitle=Culture&contentID=35) and [elsewhere](http://www.lrb.co.uk/blog/2013/02/25/jon-day/in-hackney-2/).
 
