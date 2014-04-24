@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Writing: Saving Privacy from Deformed Democracy"
+title: "Article: Saving Privacy from Deformed Democracy"
 description: ""
 category: ""
 tags: [Project, Encryption, Email, Cryptopals]
