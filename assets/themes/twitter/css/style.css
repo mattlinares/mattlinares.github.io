@@ -24,6 +24,10 @@ body {
   width: 45%;
 }
 
+.posts li {
+  margin-bottom: 12px;
+}
+
 /* Custom container */
 .container-narrow {
   margin: 0 auto;
