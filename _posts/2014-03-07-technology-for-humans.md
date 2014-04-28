@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Event coming: Technology for Humans"
+title: "Coming event: Technology for Humans"
 description: ""
 category: ""
 tags: [Retreat, Technology, Philosophy, Humanity]
