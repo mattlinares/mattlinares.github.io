@@ -11,6 +11,10 @@ As interest grows in data self-defence, more people are learning to encrypt thei
 
 <!--more-->
 
+<div class="image-right-box large"><a href="http://www.cryptopals.org"><img class="image-right" src='https://cryptopal.s3.amazonaws.com/images/postie.jpg'></a>
+	<p>Uniting private communication with the tradition of pen pals.</p>
+</div>
+
 The skill may fade and their enthusiasm to protect their data goes to waste.
 
 One answer is to find a pen pal to share encrypted emails with.
