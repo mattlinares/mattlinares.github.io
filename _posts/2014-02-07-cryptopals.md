@@ -4,16 +4,15 @@ title: "Project: Get an encrypted email pal"
 description: ""
 category: ""
 tags: [Project, Encryption, Email, Cryptopals]
+excerpt: As interest grows in data self-defence, more people are learning to encrypt their own emails. Often, they will learn the skills but find they have nobody to practice with.
 ---
 {% include JB/setup %}
-
-As interest grows in data self-defence, more people are learning to encrypt their own emails. Often, they will learn the skills but find they have nobody to practice with.
-
-<!--more-->
 
 <div class="image-right-box small"><a href="http://www.cryptopals.org"><img class="image-right" src='https://cryptopal.s3.amazonaws.com/images/postie.jpg'></a>
 	<p>Uniting private communication with the tradition of pen pals.</p>
 </div>
+
+As interest grows in data self-defence, more people are learning to encrypt their own emails. Often, they will learn the skills but find they have nobody to practice with.
 
 The skill may fade and their enthusiasm to protect their data goes to waste.
 
