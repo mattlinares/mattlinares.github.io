@@ -2,7 +2,7 @@
 layout: post
 title: "Project: Hope Hamper debrief"
 description: "Food bank microsatire decommissioned"
-category: "Information"
+category: ""
 tags: [Project, Microsplash, Hope Hamper, inequality, economics, poverty]
 excerpt: We have just decommissioned the most recent Microsplash creation. The site professed to offer a rather offensive food delivery box aimed at the poor, tactically deployed to stimulate debate.
 ---
