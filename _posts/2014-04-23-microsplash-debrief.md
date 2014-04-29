@@ -18,7 +18,7 @@ Launched this time last year, the site saw significantly less engagement than pr
 
 Hope Hamper was built by a team of three from the *Microsplash family*.
 
-We seeded it in a similar manner to Hackney Haute, dropping it into heated comments threads on newspaper websites. Discussion was particularly lively over the last year since food bank demand has become an ever more visible barometer of UK inequality.
+We seeded it in a similar manner to Hackney Haute, dropping it into heated comments threads on newspaper websites. Discussion of the issues was particularly lively over the last year since food bank demand has become an ever more visible barometer of UK inequality.
 
 The site didn't take off as it might have, perhaps due to credibility, perhaps due to unfortunate online currents. We thought it might act as a totem of dismay, of greed amidst poverty, or something else to colour and fuel the debate.
 
