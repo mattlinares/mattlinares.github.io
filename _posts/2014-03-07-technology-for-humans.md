@@ -70,4 +70,4 @@ Exercises to help get out of your head and into your body
 
 **Session ends - Reflection and revision**
 
-For more information contact [theabstractarts@gmail.com](mailto:theabstractarts@gmail.com)
+For more information contact [matthewlinares@gmail.com](mailto:matthewlinares@gmail.com)
