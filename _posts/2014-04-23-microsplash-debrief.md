@@ -16,7 +16,7 @@ We have just decommissioned [Hope Hamper](http://hopehamper.microsplash.org), th
 
 Launched this time last year, the site saw significantly less engagement than previous outing [Hackney Haute](http://www.hackneyhaute.com) which appeared in [The Guardian](http://www.guardian.co.uk/artanddesign/architecture-design-blog/2013/mar/12/david-adjaye-hackney-fashion-hub), [the Architects' Journal](http://www.architectsjournal.co.uk/culture/haute-hackney-spoof-website-lampoons-gentrification-plans/8643753.article?blocktitle=Culture&contentID=35) and [elsewhere](http://www.lrb.co.uk/blog/2013/02/25/jon-day/in-hackney-2/).
 
-Hope Hamper was built by a team of three from the *Microsplash family*, including <a href="http://www.metade.org">mighty diverse developer Patrick Sinclair</a> and I.
+Hope Hamper was built by a team of three from the *Microsplash family*, including <a href="http://www.metade.org">mighty diverse developer Patrick Sinclair</a>, the deft Diogo Soares on design, and I.
 
 We seeded it in a similar manner to Hackney Haute, dropping it into heated comments threads on newspaper websites. Discussion of the issues was particularly lively over the last year since food bank demand has become an ever more visible barometer of UK inequality.
 
