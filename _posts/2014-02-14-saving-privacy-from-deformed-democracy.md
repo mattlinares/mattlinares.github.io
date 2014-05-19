@@ -53,6 +53,10 @@ Besides this, it's high time we saw affirmations of the citizen's privacy rights
 Projects for the people
 -----------------------
 
+<div class="image-right-box small"><img class="image-right" src='/images/cryptoparty.png'>
+	<p>Sharing skills for digital security with cryptoparties.</p>
+</div>
+
 Free Software, the open data movement, web anonymity schemes like TOR, Wikipedia, Wikileaks and the provision of APIs (application program interface) for data access are all tools, templates and groups offering very different ways for people to regain power in the digital era. Projects like these meet our digital needs in various ways. As individuals, we must take responsibility for our own privacy as email users, gratuitous social sharing and increasingly active online personas. 
 
 Collectives to support and educate each other should be lauded and grown. Hackerspaces (open clubs of digital makers), Cryptoparties (digital self-defence skillshares) and Facebook alternative Diaspora are all grass roots formations - whatever helps us along the road to digital self-defence competency.
