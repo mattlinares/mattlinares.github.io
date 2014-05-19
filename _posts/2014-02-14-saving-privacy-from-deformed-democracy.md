@@ -8,7 +8,7 @@ excerpt: With focus on the government's grip over surveillance, the public debat
 ---
 {% include JB/setup %}
 
-[Here is my recent article in Open Democracy](http://www.opendemocracy.net/opensecurity/matthew-linares/saving-privacy-from-deformed-democracy)
+[Here is my recent article in Open Democracy](http://www.opendemocracy.net/opensecurity/matthew-linares/saving-privacy-from-deformed-democracy)&raquo;
 
 **With focus on the government's grip over surveillance, the public debate over privacy has ignored citizen-led data initiatives to regain power in the digital age - and the war being waged against them.**
 
