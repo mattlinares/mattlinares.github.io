@@ -49,7 +49,7 @@ As long as your private key stays private, you are the only person who can decry
 The Safebox analogy
 -------------------
 
-To help understand how encryption keys work, think of the public key as a safebox. If I want Jo to send me a private message, I give her my safebox (my public key) which she puts her email into, closes the door (encrypts with) and sends off.
+To help understand how encryption keys work, think of the public key as a safebox. If I want Jo to send me a private message, I give her my safebox (my public key) which she puts her message into, closes the door (encrypts with) and sends off.
 
 My private key is the only key which can unlock the box, so wherever the box ends up, we can be sure the message is safe.
 
