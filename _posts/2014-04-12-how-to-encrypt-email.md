@@ -51,7 +51,7 @@ The Safebox analogy
 
 To help understand how encryption keys work, think of the public key as a safebox. If I want Jo to send me a private message, I give her my safebox (my public key) which she puts her message into, closes the door (encrypts with) and sends off.
 
-My private key is the only key which can unlock the box, so wherever the box ends up, we can be sure the message is safe.
+My private key is the only key which can unlock the box, so wherever the box ends up, the message stay private.
 
 I want everyone to send me private emails, so I make sure my safeboxes are widely distributed.
 
@@ -85,12 +85,12 @@ Thunderbird is [trusted software](https://securityinabox.org/en/thunderbird_main
 
 &nbsp;
 
-→5) Thunderbird attempts to fetch all your old mail by default. We will switch this behaviour off as it slows us down.
+→5) Thunderbird attempts to fetch all your old mail by default. We will switch this off as it slows us down.
 
 
 Go to "*Manual config*" > "*Advanced config*" > "*Synchronization & Storage*"
 
-Click on the setting "*Synchronize the most recent*" and change it to 1 day.
+Click on the setting "*Synchronize the most recent*" and change it to 1 day as highlighted by arrow 3.
 
 &nbsp;
 
@@ -103,7 +103,7 @@ Setting up our encryption keys
 
 Next, we set up our key pair.
 
-<div class="image-right-box large">
+<div class="image-right-box small">
 	<a href="http://pgp.mit.edu/pks/lookup?op=get&search=0x5CB940AB66F3D996"><img src="/images/my-key.png" class="image-right"></a>
 		My public key, as displayed on the MIT key server.
 </div>
