@@ -90,7 +90,7 @@ Thunderbird is [trusted software](https://securityinabox.org/en/thunderbird_main
 
 Go to "*Manual config*" > "*Advanced config*" > "*Synchronization & Storage*"
 
-Click on the setting "*Synchronize the most recent*" and change it to 1 day as highlighted by arrow 3.
+Click on the setting "*Synchronize the most recent*" and change it to 1 day as highlighted by arrow 3 in the picture above.
 
 &nbsp;
 
