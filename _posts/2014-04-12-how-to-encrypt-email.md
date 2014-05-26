@@ -14,37 +14,37 @@ When used properly, email encryption ensures that nobody unwanted (not the NSA, 
 	An encrypted email received in Gmail. The scrambled text is nonsense to people snooping.
 </div>
 
-Hopefully, email encryption will become so widespread that even the likes of Google integrate easy tools and guides into freemail services. This may not happen though, since their business depends on knowing your email content.
+Hopefully, email encryption will become so widespread that even the likes of Google integrate easy tools and guides into freemail services. However, this may not happen, since their business depends on knowing your private email content.
 
 Whatever happens, people who care will make a point of learning it, to ensure our data remains ours.
 
-There are many email encryption tutorials online, but none covers everything I think should be covered. Here is my attempt at a good and simple guide.
+There are many email encryption tutorials online, but none covers everything I think should be. Here is my attempt at a good and simple guide.
 
 How to encrypt in simple steps
 ------------------------------
 
-This guide introduces the basic tools and concepts necessary to email encryption. Most of these steps involve a click of a button. They are just listed here to give a little more explanation.
+This guide introduces the basic tools and concepts necessary to email encryption. Most of these steps involve one click in Thunderbird. I list them one-by-one to explain what's going on.
 
-You can use your current email provider (including Gmail, Hotmail and others) to start encrypting. The instructions here will work, with slight variations, on Mac, Windows and Linux.
+You can use your current email provider (including Gmail, Hotmail and others) to send encrypted mail; this tutorial assumes that you will. The instructions here will work, with slight variations, on Mac, Windows and Linux.
 
 
 The idea behind encryption
 --------------------------
 
-The main idea we need to know is that of key pairs. Our software makes two special keys (really just two, long strings of numbers and letters), which together are a mathematically related pair:
+The main idea we need to know is that of *public key pairs*. Our software generates two sequences of numbers and letters. Together they make a mathematically related pair.
 
 <div class="image-right-box large"><img src="/images/pgp-key-pair.png" class="image-right">
 	  Sender encrypts message with the public key, the private key let's the recipient decrypt it.<br />&copy; <a href="http://www.correderajorge.es">correderajorge.es</a>
 </div>
 
-1) A private key which you need to keep secret on their computer or other device.
+1) You keep the *private key* secret on your computer or other device.
 
-2) The public key, which you share with everyone you would like to receive email from. This is usually shared with the whole world on public key sites which anyone can access and search.
+2) You share the *public key* with everyone you would like to receive email from. This is often shared with the whole world on public key sites which anyone can access.
 
 
-When someone sends you an email, their software encrypts the message with your public key. You then decrypt it with your private key. You are the only person who can decrypt messages encrypted with your public key, because only your private key can do it.
+When someone sends you an email, their software encrypts the message with your public key. You can then decrypt it with your private key.
 
-This way, as long as your private key stays private, someone can be sure that the message they are sending you can only be decrypted by you.
+As long as your private key stays private, you are the only person who can decrypt messages encrypted with your public key, because only your private key can do it. Someone can therefore be sure that the message they are sending you can only be decrypted by you.
 
 
 Software
