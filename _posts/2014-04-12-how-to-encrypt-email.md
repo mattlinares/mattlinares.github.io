@@ -46,6 +46,14 @@ When someone sends you an email, their software encrypts the message with your p
 
 As long as your private key stays private, you are the only person who can decrypt messages encrypted with your public key, because only your private key can do it. Someone can therefore be sure that the message they are sending you can only be decrypted by you.
 
+The Safebox analogy
+-------------------
+
+To help understand how encryption keys work, think of the public key as a safebox. If I want Jo to send me a private message, I give her my safebox (my public key) which she puts her email into, closes the door (encrypts with) and sends off.
+
+My private key is the only key which can unlock the box, so wherever the box ends up, we can be sure the message is safe.
+
+I want everyone to send me private emails, so I make sure my safeboxes are widely distributed.
 
 Software
 --------
@@ -151,7 +159,7 @@ Just make sure the Encrypt message option from the OpenPGP menu is selected with
 The marvellous world of encryption
 -----------------------------------
 
-If you have nobody to practice encryption with, find a penpal at [cryptopals.org](http://www.cryptopals.org).
+If you have nobody to practice encryption with, find a penpal at [cryptopals.org](http://www.cryptopals.org). The more of us do, the closer we'll be to a world of real, online privacy.
 
 There are other basic but important concepts and tools to learn about this process, like the fact that you can use it to sign messages so people can prove that you sent the message. For simplicity, this guide ends here.
 
