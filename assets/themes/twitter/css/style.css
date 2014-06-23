@@ -24,6 +24,13 @@ body {
   width: 45%;
 }
 
+.image-full {
+  width: 100%;
+  background-color: #F5EDE4;
+  padding: 8px;
+  margin: 20px 0 30px;
+}
+
 .posts li {
   margin-bottom: 12px;
 }
