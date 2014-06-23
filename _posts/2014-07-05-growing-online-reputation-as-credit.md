@@ -10,7 +10,7 @@ excerpt: The reputation economy will soon create new and unknown mechanisms of v
 
 The other week, I set a bounty on a web forum, offering reputation points that I had earned, in exchange for a solution to a problem I had posted on the site. My question now included added incentive for someone to provide a fix.
 
-[Stack Exchange](http://www.stackoverflow.com) is a slick platform for finding solutions in the question-answer format. It has sought to optimise the process of highlighting and rewarding effective answers. The user reputation system is prominent, nuanced and motivates participants in various ways. Give to the community and the community (through the system) gives back.
+[Stack Exchange](http://www.stackoverflow.com) is a slick platform for finding solutions in the question-answer format. It has sought to optimise the process of highlighting and rewarding effective answers. The user reputation system is prominent, nuanced and motivates participants in various ways.
 
 <div class="image-full"><img class="image-right" src='/images/stack-exchange.jpg'>
 	<p>Stack Exchange: A community cultivating its value.</p>
