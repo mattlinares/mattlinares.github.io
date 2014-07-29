@@ -2,8 +2,9 @@
 layout: post
 title: "Thought: Beyond annotations"
 category: ""
-excerpt: Annotations will soon supersede comments systems. The decentralized implementation also offers novel applications to further enrich the web as we know it.
+excerpt: Annotations will supersede comments systems. The decentralized implementation also offers novel applications to further enrich the web as we know it.
 tags: [Thought, hypothes.is, annotations]
+permalink: /beyond-annotating-the-web
 ---
 
 <div class="image-right-box large"><a href="http://www.w3.org/2014/annotation/diagrams/annotation-architecture.svg"><img class="image-right" src='/images/annotations-w3c.jpg'></a>
