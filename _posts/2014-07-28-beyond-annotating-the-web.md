@@ -18,6 +18,9 @@ The <a href="http://hypothes.is">hypothes.is</a> project aims to do that as a we
 	<p>The annotations <em>superstructure</em>: every URL accompanied by annotations and more.</p>
 </div> -->
 
+Emergent superstructure
+-----------------------
+
 Whilst the project in itself excites, the underlying mechanism, which produces a structured overlay to the entire web, a sort of superstructure, has utility beyond the annotations system at its heart. It can provide a means of closely complementing all web matter with information not included (or even sanctioned) by the publisher, in an openly accessible fashion.
 
 At a recent gathering in Berlin, we considered the idea of attaching a suggested action, like a petition or campaign, to web articles. The hope was to facilitate action at the moment people encounter issues online.
