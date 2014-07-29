@@ -5,6 +5,7 @@ description: ""
 category: ""
 tags: [Retreat, Technology, Philosophy, Humanity]
 excerpt: This March we host Technology for Humans, a two-day residential event exploring what it is to be an engaged human within the fast unfolding reality of technological change.
+permalink: /2014/03/07/technology-for-humans/
 ---
 {% include JB/setup %}
 

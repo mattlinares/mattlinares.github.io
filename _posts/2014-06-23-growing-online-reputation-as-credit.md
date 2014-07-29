@@ -5,6 +5,7 @@ description: "Early motions in the online reputation economy"
 category: ""
 tags: [Thought, Web economy, Reputation, Money]
 excerpt: The reputation economy will soon create new and unknown mechanisms of value.
+permalink: /2014/06/23/growing-online-reputation-as-credit/
 ---
 {% include JB/setup %}
 

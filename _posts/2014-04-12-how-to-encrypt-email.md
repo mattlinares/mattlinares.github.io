@@ -3,6 +3,7 @@ layout: post
 title: "Tutorial: How to encrypt your email"
 description: "A basic tutorial in email encryption"
 tags: [Information, Tutorial, Encryption, Security]
+permalink: /2014/04/12/how-to-encrypt-email/
 ---
 {% include JB/setup %}
 

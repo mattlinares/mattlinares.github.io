@@ -5,6 +5,7 @@ description: ""
 category: ""
 tags: [Project, Encryption, Email, Cryptopals]
 excerpt: With focus on the government's grip over surveillance, the public debate over privacy has ignored citizen-led data initiatives to regain power in the digital age.
+permalink: /2014/02/14/saving-privacy-from-deformed-democracy/
 ---
 {% include JB/setup %}
 

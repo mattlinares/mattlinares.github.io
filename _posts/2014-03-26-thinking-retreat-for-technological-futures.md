@@ -4,6 +4,7 @@ title: "Project: A thinking retreat for future&rsquo;s sake"
 description: ""
 category: ""
 tags: [Event, Encryption, Email, Cryptopals]
+permalink: /2014/03/26/thinking-retreat-for-technological-futures/
 ---
 {% include JB/setup %}
 
