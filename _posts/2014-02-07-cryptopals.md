@@ -5,6 +5,7 @@ description: ""
 category: ""
 tags: [Project, Encryption, Email, Cryptopals]
 excerpt: As interest grows in data self-defence, more people are learning to encrypt their own emails. Often, they will learn the skills but find they have nobody to practice with.
+permalink: /2014/02/07/cryptopals/
 ---
 {% include JB/setup %}
 
