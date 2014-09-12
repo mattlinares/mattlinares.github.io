@@ -3,6 +3,7 @@ layout: post
 title: "Project: Building in Privacy"
 category: ""
 excerpt: People are covering up computer cameras in a desperate effort to regain privacy.
+thumb: "/images/covercam-logo.jpg"
 tags: [Project, campaign,]
 permalink: /building-in-privacy
 ---
@@ -25,7 +26,7 @@ Many feel moved to act and patch up the voyeuristic threat with makeshift bits o
 
 It's time they built out Orwellian design. Give us the choice by adding lens covers as is common in other cameras. The alternative is an active rebellion against the products, as catalogued by [new Tumblr CoverCam DIY](http://covercam.tumblr.com).
 
-[Send me your images of DIY de-surveillance customisations](mailto:info@microsplash.org) to post on Tumblr. Companies need to know their products are being uglified on mass.
+[Send me your images of DIY de-surveillance customisations](mailto:info@microsplash.org) to post at CoverCam. Companies need to know their products are being uglified *en masse*.
 
 This is just one small effort to claw back privacy.
 

@@ -11,6 +11,10 @@ p {
   line-height: 1.5em;
 }
 
+.page-header p {
+  margin-bottom: 10px;
+}
+
 .image-right-box {
   float: right;
   margin: 0 0 20px 20px;
@@ -18,10 +22,24 @@ p {
   padding: 8px;
 }
 
+.image-right-box p, .image-right p, .image-full p {
+  font-size: 14px;
+  line-height: 1.4em;
+  margin-bottom: 6px;
+}
+
 .image-right {
   display:block;
   margin-bottom: 5px;
   width: 100%;
+}
+
+.list-thumb {
+  width: 16%;
+  float: right;
+  margin: 0 0 6px 18px;
+  background-color: #F5EDE4;
+  padding: 4px;
 }
 
 .small {
@@ -40,7 +58,8 @@ p {
 }
 
 .posts li {
-  margin-bottom: 12px;
+  margin-bottom: 20px;
+  line-height: 1.4em;
 }
 
 .buttons {
