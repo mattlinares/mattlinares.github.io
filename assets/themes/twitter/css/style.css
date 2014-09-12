@@ -3,6 +3,10 @@ body {
   font-family: 'Averia Serif Libre', cursive;
 }
 
+p {
+  margin-bottom: 25px;
+}
+
 .image-right-box {
   float: right;
   margin: 0 0 20px 20px;
