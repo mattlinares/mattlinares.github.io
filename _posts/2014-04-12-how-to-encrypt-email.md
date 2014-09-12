@@ -2,14 +2,13 @@
 layout: post
 title: "Tutorial: How to encrypt your email"
 description: "A basic tutorial in email encryption"
+excerpt: "A basic tutorial in email encryption"
 tags: [Information, Tutorial, Encryption, Security]
 permalink: /2014/04/12/how-to-encrypt-email/
 ---
 {% include JB/setup %}
 
 When used properly, email encryption ensures that nobody unwanted (not the NSA, marketing men, creeps, etc.) can see the content of your emails.
-
-<!--more-->
 
 <div class="image-right-box large"><img src="/images/encryption-in-gmail.jpg" class="image-right">
 	An encrypted email received in Gmail. The scrambled text is nonsense to people snooping.
