@@ -5,6 +5,7 @@ category: ""
 excerpt: People are covering up computer cameras in a desperate effort to regain privacy.
 thumb: "/images/covercam-logo.jpg"
 tags: [Project, campaign,]
+image: "/images/iPatch-mobile-MotoG.jpg"
 permalink: /building-in-privacy
 ---
 
