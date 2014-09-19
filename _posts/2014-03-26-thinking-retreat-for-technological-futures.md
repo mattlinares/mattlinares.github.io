@@ -6,6 +6,7 @@ excerpt: "As technology hurtles on, our lives are altered in ways we may not und
 category: ""
 tags: [Event, Encryption, Email, Cryptopals]
 permalink: /2014/03/26/thinking-retreat-for-technological-futures/
+thumb: "/images/t4h-blind-fictions-thumb.jpg"
 ---
 {% include JB/setup %}
 
