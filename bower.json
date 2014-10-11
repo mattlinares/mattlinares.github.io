@@ -1,0 +1,12 @@
+{
+  "name": "mywebsite",
+  "dependencies": {
+    "jquery": "~2.0.3",
+    "jquery.stellar": "0.6.2"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ]
+}

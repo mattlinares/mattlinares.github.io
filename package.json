@@ -1,0 +1,12 @@
+{
+  "name": "matt.microsplash.org",
+  "version": "0.0.1",
+  "dependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-uglify": "*",
+    "bower": "*"
+  },
+  "engines": {
+    "npm": "1.2.x"
+  }
+}
