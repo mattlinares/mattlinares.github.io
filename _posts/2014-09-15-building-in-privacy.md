@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Project: Building in Privacy"
+title: "Project: Building-in Privacy"
 category: ""
-excerpt: People are covering up computer cameras in a desperate effort to regain privacy.
+excerpt: People are blocking their webcams in a desperate, DIY effort to regain privacy.
 thumb: "/images/covercam-logo.jpg"
 tags: [Project, campaign,]
 image: "/images/iPatch-mobile-MotoG.jpg"
