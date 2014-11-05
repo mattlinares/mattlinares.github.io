@@ -35,11 +35,16 @@ p {
 }
 
 .list-thumb {
+  margin: 0 0 6px 18px;
   width: 16%;
   float: right;
-  margin: 0 0 6px 18px;
   background-color: #F5EDE4;
   padding: 4px;
+}
+
+.long-thumb {
+  margin-bottom: 12px;
+  width: 100%;
 }
 
 .small {
@@ -58,7 +63,7 @@ p {
 }
 
 .posts li {
-  margin-bottom: 20px;
+  margin-bottom: 30px;
   line-height: 1.4em;
 }
 
