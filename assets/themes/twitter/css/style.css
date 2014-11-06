@@ -99,7 +99,7 @@ p {
 
 /* posts index */
 
-!important ul.posts {
+ul.posts {
   margin-left: 0;
 }
 
