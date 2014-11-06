@@ -63,8 +63,9 @@ p {
 }
 
 .posts li {
-  margin-bottom: 30px;
+  margin-bottom: 45px;
   line-height: 1.4em;
+  list-style-type: none; 
 }
 
 .buttons {
@@ -97,6 +98,11 @@ p {
   float: right; }
 
 /* posts index */
+
+!important ul.posts {
+  margin-left: 0;
+}
+
 .post > h3.title {
   position: relative;
   padding-top: 10px; }
