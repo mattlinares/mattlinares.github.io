@@ -103,6 +103,20 @@ p {
 
 /* posts index */
 
+ul.projects {
+  margin-bottom: 30px;
+  list-style: none;
+  padding: 0px;
+}
+
+ul.projects li {
+  margin-bottom: 12px;
+}
+
+ul.projects li:before {
+  content: '\00BB\0020';
+}
+
 ul.posts {
   margin-left: 0;
 }
