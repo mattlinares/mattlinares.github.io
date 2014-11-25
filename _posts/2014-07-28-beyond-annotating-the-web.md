@@ -13,7 +13,9 @@ permalink: /beyond-annotating-the-web
 
 <a href="http://www.w3.org/2014/annotation/diagrams/annotation-architecture.svg">Annotations on articles turn reader's comments into surgical probes</a>, putting insights right next to the words they target. <a href="http://storyk.it/annotations-for-better-facts/">There's reason to believe that annotations systems, done well</a>, could <em>Wiki the whole web</em>, bringing collective thinking to every item on the internet.
 
-The <a href="http://hypothes.is">hypothes.is</a> project aims to do that as a webwide, independent, user-voted annotations platform. When you visit a page, their browser extension flanks it with user thoughts, even if it has no comments sections, or has some other obstacle to <em>reader</em> contributions. Websites can also build it right in, which is why you see the sidebar in the right margin here.
+The <a href="http://hypothes.is">hypothes.is</a> project aims to do that as a webwide, independent, user-voted annotations platform. When you visit a page, their browser extension flanks it with user thoughts, even if it has no comments sections, or has some other obstacle to <em>reader</em> contributions.
+
+Websites can also build it right in, which is why you see the sidebar in the right margin here on this site. Try it out by clicking and commenting. That comment will be hosted elsewhere outside of my control.
 
 <!-- <div class="image-right-box large"><a href="http://www.w3.org/2014/annotation/diagrams/annotation-architecture.svg"><img class="image-right" src='/images/hopehamper.jpg'></a>
 	<p>The annotations <em>superstructure</em>: every URL accompanied by annotations and more.</p>
