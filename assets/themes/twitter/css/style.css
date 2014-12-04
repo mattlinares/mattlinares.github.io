@@ -90,6 +90,35 @@ p {
   margin: 20px 0 0 30px;
 }
 
+/* Profile bits */
+
+.grad-back {
+  /* fallback */
+  background-color: #F7F8FD;
+  padding: 10px 10px 11px 20px;
+  -moz-border-radius:6px;
+  -webkit-border-radius: 6px;
+  border-radius: 6px;
+  -khtml-border-radius: 6px;
+
+  /* Safari 4-5, Chrome 1-9 */
+  background: -webkit-gradient(linear, left top, right top, from(#F7F8FD), to(#fff));
+
+  /* Safari 5.1, Chrome 10+ */
+  background: -webkit-linear-gradient(left, #F7F8FD, #fff);
+
+  /* Firefox 3.6+ */
+  background: -moz-linear-gradient(left, #F7F8FD, #fff);
+
+  /* IE 10 */
+  background: -ms-linear-gradient(left, #F7F8FD, #fff);
+
+  /* Opera 11.10+ */
+  background: -o-linear-gradient(left, #F7F8FD, #fff);
+}
+
+/* End profile */
+
 /* Custom container */
 .container-narrow {
   margin: 0 auto;
