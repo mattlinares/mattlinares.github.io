@@ -1,0 +1,76 @@
+
+
+
+
+https://hypothes.is/a/DLLTfHM0RVCD0wBYk4UF_A
+https://hypothes.is/stream
+
+https://github.com/hypothesis/h/issues/777
+[10:41] <csillag2> "decentralized storage of annotations"
+-------------
+https://webchat.freenode.net/
+
+I'm trying to get an idea of how users will access data on the hypothes.is 'network'? I assume all public annotations will be accessible to all users, so is there to be some decentralized model? I've read around e.g. here https://github.com/hypothesis/h/wiki/Storage but am not finding clarity on the matter
+
+[10:26] <csillag2> hi deepthings,
+[10:26] <csillag2> I'll try to answer your question.
+[10:26] <csillag2> Are you still here?
+[10:28] <csillag2> Anyway, here is the answer.
+[10:28] <csillag2> There are moultiple ways to access the data.
+[10:29] <csillag2> First, our backend has a publicly accessible, self-documenting API, available at https://hypothes.is/api/
+[10:29] <csillag2> You can just throw any requests at us directly, and you can read all the public annotations that way.
+[10:30] <csillag2> Furthermore, all public annotations have their own URL, where they can read them on our page, like for example
+[10:30] <csillag2> https://hypothes.is/a/DLLTfHM0RVCD0wBYk4UF_A
+[10:31] <csillag2> Also, there is a "stream" interface, where you can watch (and search) the annotations both from the past, and live, in real time, as they come in: http://hypothes.is/stream
+[10:31] <csillag2> Also, when you apply our application on a web page,
+[10:32] <csillag2> (either by embedding it on the webpage, or using the bookmarklet, or a browser extension),
+[10:32] <csillag2> then you automatically get the annotations belonging to the given document.
+[10:32] <csillag2> (Actually, currently this is the most common way to access the annotations.)
+
+FULL TEXT OF THE ABOVE
+
+[09:47] == deepthings [584b71ae@gateway/web/freenode/ip.88.75.113.174] has joined #hypothes.is
+[09:51] <deepthings> I'm trying to get an idea of how users will access data on the hypothes.is 'network'? I assume all public annotations will be accessible to all users, so is there to be some decentralized model? I've read around e.g. here https://github.com/hypothesis/h/wiki/Storage but am not finding clarity on the matter
+[09:51] <deepthings> can anyone help please? thanks
+[10:01] == woah [~woah@162.217.75.81] has quit [Quit: My MacBook Pro has gone to sleep. ZZZzzz…]
+[10:19] == csillag2 [~csillag@catv-89-133-42-76.catv.broadband.hu] has quit [Quit: Leaving.]
+[10:20] == csillag2 [~csillag@netacc-gpn-5-201-15.pool.telenor.hu] has joined #hypothes.is
+[10:26] <csillag2> hi deepthings,
+[10:26] <csillag2> I'll try to answer your question.
+[10:26] <csillag2> Are you still here?
+[10:28] <csillag2> Anyway, here is the answer.
+[10:28] <csillag2> There are moultiple ways to access the data.
+[10:29] <csillag2> First, our backend has a publicly accessible, self-documenting API, available at https://hypothes.is/api/
+[10:29] <csillag2> You can just throw any requests at us directly, and you can read all the public annotations that way.
+[10:30] <csillag2> Furthermore, all public annotations have their own URL, where they can read them on our page, like for example
+[10:30] <csillag2> https://hypothes.is/a/DLLTfHM0RVCD0wBYk4UF_A
+[10:31] <csillag2> Also, there is a "stream" interface, where you can watch (and search) the annotations both from the past, and live, in real time, as they come in: http://hypothes.is/stream
+[10:31] <csillag2> Also, when you apply our application on a web page,
+[10:32] <csillag2> (either by embedding it on the webpage, or using the bookmarklet, or a browser extension),
+[10:32] <csillag2> then you automatically get the annotations belonging to the given document.
+[10:32] <csillag2> (Actually, currently this is the most common way to access the annotations.)
+[10:32] <csillag2> Did I answer your question?
+[10:36] == aron_ [~Aron@p5DDBA134.dip0.t-ipconnect.de] has joined #hypothes.is
+[10:36] <deepthings> thanks for that. yes you did answer it.
+[10:37] <deepthings> how about for local installations? do they just eventually push up to the central store?
+[10:38] <deepthings> by installation, i mean this: https://github.com/hypothesis/h/wiki/Installation
+[10:40] <csillag2> Currently, there is no built-in communication mechanism between different backend.
+[10:40] <csillag2> We host one instance of the backend,
+[10:40] <csillag2> but anybody else can deploy his own, too.
+[10:40] <deepthings> so there is a view to decentralising?
+[10:40] <csillag2> Eventually, we intend to add replication / federation capacibilities
+[10:40] <csillag2> yes
+[10:41] <csillag2> Let me look up a few issues for you
+[10:41] <deepthings> thanks!
+[10:41] <csillag2> https://github.com/hypothesis/h/issues/777
+[10:41] <csillag2> "decentralized storage of annotations"
+[10:46] == aron_ [~Aron@p5DDBA134.dip0.t-ipconnect.de] has quit [Quit: leaving]
+[10:46] == aron_ [~Aron@p5DDBA134.dip0.t-ipconnect.de] has joined #hypothes.is
+[10:47] == Sebastien-L [~sebastien@host.214.33.23.62.rev.coltfrance.com] has joined #hypothes.is
+[10:49] <deepthings> great, i really appreciate your time. i've been writing about hypothes.is so hopefully these explanations will be travel
+[10:55] <csillag2> I am not sure I follow this part:
+[10:55] <csillag2> "hopefully these explanations will be travel"
+[11:00] <deepthings> i mean your explanations will be useful beyond the bounds of this conversation
+[11:00] <csillag2> Oh, I see.
+[11:00] <deepthings> it was a rather convoluted way of saying thank you!
+[11:00] <csillag2> Feel free to use them.
