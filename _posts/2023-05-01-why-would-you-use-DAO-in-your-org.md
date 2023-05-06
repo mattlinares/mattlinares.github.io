@@ -3,12 +3,12 @@ published: true
 layout: post
 description: People often ask “why use a DAO or a blockchain in an organisational context”?
 category: null
-excerpt: Is a DAO right for you?
+excerpt: People often ask “why use a DAO or a blockchain in an organisational context”?
 tags:
   - Project
 longthumb: /images/
 image: /images/portugal-lost-youth.jpg
-permalink: /why-use-a-dao/
+permalink: /why-use-a-dao
 ---
 {% include JB/setup %}
 
