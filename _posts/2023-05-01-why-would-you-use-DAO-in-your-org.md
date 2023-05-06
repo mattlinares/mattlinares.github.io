@@ -1,13 +1,9 @@
 ---
 published: true
 layout: post
-description: People often ask “why use a DAO or a blockchain in an organisational context”?
-category: null
 excerpt: People often ask “why use a DAO or a blockchain in an organisational context”?
 tags:
   - Project
-longthumb: /images/
-image: /images/portugal-lost-youth.jpg
 permalink: /why-use-a-dao
 ---
 ## Why Do DAO
