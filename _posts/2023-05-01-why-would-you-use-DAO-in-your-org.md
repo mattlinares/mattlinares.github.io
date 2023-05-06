@@ -10,8 +10,6 @@ longthumb: /images/
 image: /images/portugal-lost-youth.jpg
 permalink: /why-use-a-dao
 ---
-{% include JB/setup %}
-
 ## Why Do DAO
 
 People often ask “why use a DAO or a blockchain in an organisational context”? It’s a good question. The tools we use play a decisive role in outcomes.
