@@ -5,6 +5,7 @@ excerpt: People often ask “why use a DAO or a blockchain in an organisational 
 tags:
   - Project
 permalink: /why-use-a-dao
+title: Why use a Dao in your org organisation
 ---
 ## Why Do DAO
 
