@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-excerpt: A LARP to build citizen confidence in regulating AI
+excerpt: DAOs may be tools to organise as never before
 tags: [Project, DAO]
 permalink: /DAO-visions
 ---
