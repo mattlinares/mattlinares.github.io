@@ -5,6 +5,7 @@ description: "As technology hurtles on, our lives are altered in ways we may not
 excerpt: "As technology hurtles on, our lives are altered in ways we may not understand or accept. Some say that the pace of change is greater than ever and accelerating. Personal efforts to keep up are important for a confident, happy existence. Even those who do keep up often feel aspects of their human faculties wither and warp."
 category: ""
 tags: [Event, Encryption, Email, Cryptopals]
+archive: true
 permalink: /2014/03/26/thinking-retreat-for-technological-futures/
 thumb: "/images/t4h-blind-fictions-thumb.jpg"
 ---

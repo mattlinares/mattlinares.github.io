@@ -5,6 +5,7 @@ category: ""
 excerpt: People are blocking their webcams in a desperate, DIY effort to regain privacy.
 thumb: "/images/covercam-logo.jpg"
 tags: [Project, campaign,]
+archive: true
 image: "/images/iPatch-mobile-MotoG.jpg"
 permalink: /building-in-privacy
 ---

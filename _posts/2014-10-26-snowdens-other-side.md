@@ -4,6 +4,7 @@ title: "Spies, Art and Monsters"
 category: ""
 excerpt: "The rich and creepy aesthetic of the surveillance state"
 tags: [Thoughts, Art, Surveillance]
+archive: true
 permalink: /spies-art-monsters
 longthumb: "/images/NGA-by-Trevor-Paglen-675.jpg"
 ---

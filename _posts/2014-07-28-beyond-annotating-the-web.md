@@ -4,6 +4,7 @@ title: "Thought: Beyond annotations"
 category: ""
 excerpt: Annotations will supersede comments systems. The decentralized implementation also offers novel applications to further enrich the web as we know it.
 tags: [Thought, hypothes.is, annotations]
+archive: true
 permalink: /beyond-annotating-the-web
 ---
 
