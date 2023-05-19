@@ -11,14 +11,15 @@ permalink: /LARPing-AI
 ---
 ## Tame the algorithm: a game of AI control
 
+AI's impact on society can feel overwhelming. This is a transformational technology demanding us to make reconsider what it is to be human and what we must do to protect that.
 
-LARPing is a modality for collaborative exploration of complex ideas and scenarios, including in critical seminar settings. It can yield richer understanding than e.g. standard debates because participants are asked to pose as actors who they may otherwise just consider in the abstract. This enables greater empathy and appreciation of the concepts faced by decision makers.
+LARPing is a modality for collaborative exploration of complex ideas and scenarios, including in critical seminar settings. It can yield richer understanding than regular debates because participants are asked to pose as actors who they may otherwise just consider in the abstract. This enables greater empathy and appreciation of the concepts faced by decision makers.
 
 This Live Action Role Play (LARP) aims to give participants hands-on experience of managing and regulating algorithms.
 
-I have run this game on numerous occasions with writer Sara Pereira. We are available to support or host this and similar games in future, just [get in touch](mailto:matthewlinares@protonmail.com).
+I have run this game on numerous occasions with writer Sara Pereira. We are available to support or host this and similar games, just [get in touch](mailto:matthewlinares@protonmail.com).
 
-Below is an outline of game mechanics.
+Below is an outline of the game's mechanics so you can get a feel for it or even try it yourself.
 
 ### Objective
 
