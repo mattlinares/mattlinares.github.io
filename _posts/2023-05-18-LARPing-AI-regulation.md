@@ -20,11 +20,11 @@ I have run this game on numerous occasions with the assistance of writer Sara Pe
 
 Below is an outline of game mechanics.
 
-**Objective**
+### Objective
 
 Participants play the roles of stakeholders in a scenario where an algorithmic recruitment app is being criticized for perpetuating bias and discrimination. The objective of the LARP is to collaboratively decide on one of the players’ proposals to address these concerns in a way that is fair and transparent for all parties. The game is competitive, with individual proposals and voting rounds that introduce additional challenges to the decision-making process.
 
-**Roles and world-building**
+### Roles and world-building
 
 Each participant takes on the role of one of the following stakeholders:
 
@@ -46,7 +46,7 @@ Players get role cards with details of their own perspective and some prompts th
 
 They should spend 10-30 minutes thinking about their role and the world-building notes before gameplay begins.
 
-**Gameplay**
+### Gameplay
 
 Round 1: Introduction – In the first round, each participant introduces themselves and their role. Participants discuss the current state of the algorithmic recruitment app and the concerns that have been raised about it.
 
@@ -66,7 +66,7 @@ Round 5: Conclusion – Participants may now reflect on the decision-making proc
 
 Overall, the objective of the LARP is to explore the nature of algorithmic decision-making and the role of different stakeholders in governing it. 
 
-**World-building notes**
+### World-building notes
 
 These notes detail the world that the LARP is based in. Anything not defined here can be decided on by participants during the worldbuilding phase, drawn from elements of the real world and from your imagination. 
 
@@ -87,7 +87,7 @@ It has long been suspected that hiring decisions made with the app are unfair. S
 
 
 
-**Resources**
+### Resources
 
 Here are some further notes on LARPs and AI in society.
 
