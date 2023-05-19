@@ -16,7 +16,7 @@ LARPing is a modality for collaborative exploration of complex ideas and scenari
 
 This Live Action Role Play (LARP) aims to give participants hands-on experience of managing and regulating algorithms.
 
-I have run this game on numerous occasions with the assistance of writer Sara Pereira. We are available to support or host this and similar games in future, just [get in touch](mailto:matthewlinares@protonmail.com).
+I have run this game on numerous occasions with writer Sara Pereira. We are available to support or host this and similar games in future, just [get in touch](mailto:matthewlinares@protonmail.com).
 
 Below is an outline of game mechanics.
 
