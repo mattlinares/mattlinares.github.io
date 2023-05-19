@@ -18,6 +18,6 @@ These options means we can design totally new organisational structures.
 
 **Resources**
 
-“Here’s a basic guide to setting up the tools to create and use a DAO, as an administrator or a user.” https://www.crypticalstudios.com/how-to-dao
+“Here’s a basic guide to setting up the tools to create and use a DAO, as an administrator or a user.” [https://www.crypticalstudios.com/how-to-dao](https://www.crypticalstudios.com/how-to-dao)
 
 “...the possibility to assign ownership to the users and contributors to a network protocol in a peer-to-peer way opens up new ways to conceive of organisational models beyond current private property and value extraction. Or better, it may enable us to revitalise the minor forms of organising that are poorly served by today’s collapsing legacy institutions – such as cooperatives, friends’ groups, and event-based collectives.” [Laura Lotti](https://www.opendemocracy.net/en/digitaliberties/blockchain-may-redefine-the-web-its-up-to-us-to-make-sure-its-done-well/)
