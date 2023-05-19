@@ -92,18 +92,13 @@ It has long been suspected that hiring decisions made with the app are unfair. S
 
 Here are some further notes on LARPs and AI in society.
 
-https://futureofstorytelling.org/story/larp-and-co-created-reality
+Discussion on the lure and utility of LARPing: [https://futureofstorytelling.org/story/larp-and-co-created-reality](https://futureofstorytelling.org/story/larp-and-co-created-reality)
 
-Discussion on the lure and utility of LARPing.
 
-https://predictive-optimization.cs.princeton.edu
+“Any application of predictive optimization should be considered illegitimate by default unless the developer justifies how it avoids these flaws.” 2022 [https://predictive-optimization.cs.princeton.edu](https://predictive-optimization.cs.princeton.edu)
 
-“Any application of predictive optimization should be considered illegitimate by default unless the developer justifies how it avoids these flaws.” 2022
 
-https://www.propublica.org/article/yieldstar-rent-increase-realpage-rent
+“One of the algorithm’s developers told ProPublica that leasing agents had ‘too much empathy’ compared to computer generated pricing.” [https://www.propublica.org/article/yieldstar-rent-increase-realpage-rent](https://www.propublica.org/article/yieldstar-rent-increase-realpage-rent)
 
-“One of the algorithm’s developers told ProPublica that leasing agents had ‘too much empathy’ compared to computer generated pricing.”
+…the major harms caused by AI are already here, and therefore “Regulatory efforts should focus on transparency, accountability and preventing exploitative labor practices.”  [https://www.politico.com/newsletters/digital-future-daily/2023/04/11/timnit-gebrus-anti-ai-pause-00091450](https://www.politico.com/newsletters/digital-future-daily/2023/04/11/timnit-gebrus-anti-ai-pause-00091450)
 
-https://www.politico.com/newsletters/digital-future-daily/2023/04/11/timnit-gebrus-anti-ai-pause-00091450
-
-…the major harms caused by AI are already here, and therefore “Regulatory efforts should focus on transparency, accountability and preventing exploitative labor practices.” 
