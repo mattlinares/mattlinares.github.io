@@ -14,7 +14,7 @@ We'll only really know if they can help by trying them out, so I've started expe
 
 Such mini-DAOs let us test examine how they can work to solve a certain problem and also allow an organisation to test how they fit with their work flows.
 
-## A DAO to manage a social centre’s building storage
+### DAO to manage a social centre’s building storage
 
 Here's a test DAO with a social design group to manage the design of better storage solutions for the organisation’s event space. The budget is a small amount ~£200 from the organisational budget. 
 
