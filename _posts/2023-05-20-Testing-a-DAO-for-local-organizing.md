@@ -18,9 +18,9 @@ Such mini-DAOs let us test examine how they can work to solve a certain problem 
 
 Here's a test DAO with a social design group to manage the design of better storage solutions for the organisation’s event space. The budget is a small amount ~£200 from the organisational budget. 
 
-We needed to explain how the DAO would be used by the members, for what actions, at what cost, and for what benefit.
+We needed to explain how the DAO would be used by the members, for what actions, at what cost, and for what benefit. I created this resource, [**DAOs in practice**](https://www.crypticalstudios.com/daos-in-practice), to help.
 
-I created this resource, [**DAOs in practice**](https://www.crypticalstudios.com/daos-in-practice), to help give an overview of how the DAO would work.
+Then, we began testing with an actual DAO, tracking actions here:
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQlSJJ6nxAlotJck7oJWq18VXzR5S1qNAb53mojHdtU37WVGMrlERlEBms3kmtkjhyxqiO7JP5t09Fb/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false&amp;range=A1:E3" width="100%"></iframe>
 
