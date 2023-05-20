@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-excerpt: I have devised a role-play game to build citizen confidence in regulating AI.
+excerpt: Using role-play games to build citizen confidence in regulating AI.
 tags:
   - Project
   - AI
@@ -101,4 +101,3 @@ Discussion on the lure and utility of LARPing: [https://futureofstorytelling.org
 “One of the algorithm’s developers told ProPublica that leasing agents had ‘too much empathy’ compared to computer generated pricing.” [https://www.propublica.org/article/yieldstar-rent-increase-realpage-rent](https://www.propublica.org/article/yieldstar-rent-increase-realpage-rent)
 
 …the major harms caused by AI are already here, and therefore “Regulatory efforts should focus on transparency, accountability and preventing exploitative labor practices.”  [https://www.politico.com/newsletters/digital-future-daily/2023/04/11/timnit-gebrus-anti-ai-pause-00091450](https://www.politico.com/newsletters/digital-future-daily/2023/04/11/timnit-gebrus-anti-ai-pause-00091450)
-
