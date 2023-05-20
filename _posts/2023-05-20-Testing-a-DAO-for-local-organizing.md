@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 excerpt: DAOs could help small orgs so we must experiment
 tags:
@@ -29,4 +29,3 @@ Suggestion: Designing better storage solutions/management for the organisation's
 [https://www.crypticalstudios.com/daos-in-practice](https://www.crypticalstudios.com/daos-in-practice)
 
 [https://www.crypticalstudios.com/how-to-dao](https://www.crypticalstudios.com/how-to-dao)
-
