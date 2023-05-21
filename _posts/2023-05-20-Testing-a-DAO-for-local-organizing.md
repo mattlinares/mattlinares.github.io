@@ -18,16 +18,56 @@ Such mini-DAOs let us test examine how they can work to solve a certain problem 
 
 Here's a test DAO with a social design group to manage the design of better storage solutions for the organisation’s event space. The budget is a small amount ~£200 from the organisational budget. 
 
-We needed to explain how the DAO would be used by the members, for what actions, at what cost, and for what benefit. I created this resource, [**DAOs in practice**](https://www.crypticalstudios.com/daos-in-practice), to help.
+We needed to explain how the DAO would be used by the members, for what actions, at what cost, and for what benefit. I created the resource [**DAOs in practice**](https://www.crypticalstudios.com/daos-in-practice) to help.
 
-Then, we began testing with an actual DAO, tracking actions here:
+Then, we began testing with a functional DAO. We actually used a DAO on a test blockchain, which can be used without spending cryptocurrency, that is, for free. If we decide that it's working well, then we can establish it on a real-value blockchain.
+
+To show the specifics of how the DAO is actually used, we track actions on this spreadsheet:
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQlSJJ6nxAlotJck7oJWq18VXzR5S1qNAb53mojHdtU37WVGMrlERlEBms3kmtkjhyxqiO7JP5t09Fb/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false&amp;range=A1:E3" width="100%" height="400px"></iframe>
 
 
 
-## Resources
+### Costs of service
 
-[https://www.crypticalstudios.com/daos-in-practice](https://www.crypticalstudios.com/daos-in-practice)
+Much like other web services, there are costs attached to using DAOs, specifically transaction costs to run the various actions on the blockchain and make things happen e.g. finalising votes, paying suppliers, etc.
 
-[https://www.crypticalstudios.com/how-to-dao](https://www.crypticalstudios.com/how-to-dao)
+On a test network, such as the one we're using for our experiment above, usage is actually free. However, the currency used on test networks has no value so doesn't offer the true effects such as real payments reflecting the outcome of a vote.
+
+On a real network, transaction fees vary so costs are not predictable. This is one of the problems with DAOs at the moment, particularly for small projects.
+
+Nevertheless, there are ways to minimise these costs and ongoing developments are pushing costs down entirely.
+
+Here is a sample of fees for a bunch of actions but these costs will reduce soon. 
+
+
+### Couldn't we do this without DAOs and blockchains?
+
+Some critics insist that blockchain is overkill and that this kind of project can be done without. It's an important concern, particularly as the technology can claim few successes.
+
+Whilst we remain in this early age, it's worth clarifying what benefits we hope to find by using DAOs.
+
+#### Trust and transparency
+
+Every DAO decision, including those that lead to funding actions, is made by and viewable by all members as a default.
+
+A 'traditional' organisation could have rules insisting that every decision and expenditure is made by and documented for all. However, trusted treasurers can often act independently. This is just not possible if a DAO has been set up properly.
+
+#### Programmability
+
+Even today's young DAO platforms offer rich functionality that gives custom design options for organisational activity.
+
+For example, DAOHaus 
+
+This can all be done in non-blockchain orgs by agreeing on the parameters and managing it accordingly. Having it run as standard 
+
+<hr/>
+
+» If you need help to understand if a DAO could work for your project, [send an email](mailto:matthewlinares@protonmail.com).
+
+
+## More resources for starting with DAOs
+
+Overview of the steps and considerations involved in establishing a DAO for organisational use: [https://www.crypticalstudios.com/daos-in-practice](https://www.crypticalstudios.com/daos-in-practice)
+
+Quick, practical guide to starting with DAOs [https://www.crypticalstudios.com/how-to-dao](https://www.crypticalstudios.com/how-to-dao)
