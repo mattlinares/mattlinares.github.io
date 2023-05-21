@@ -24,7 +24,7 @@ Then, we began testing with a functional DAO. We actually used a DAO on a test b
 
 To show the specifics of how the DAO is actually used, we track actions on this spreadsheet:
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQlSJJ6nxAlotJck7oJWq18VXzR5S1qNAb53mojHdtU37WVGMrlERlEBms3kmtkjhyxqiO7JP5t09Fb/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false&amp;range=A1:E3" width="100%" height="400px"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQlSJJ6nxAlotJck7oJWq18VXzR5S1qNAb53mojHdtU37WVGMrlERlEBms3kmtkjhyxqiO7JP5t09Fb/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false&amp;range=A1:E3" width="100%" height="300px"></iframe>
 
 
 
