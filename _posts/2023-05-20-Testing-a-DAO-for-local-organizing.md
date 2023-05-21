@@ -36,12 +36,17 @@ On a test network, such as the one we're using for our experiment above, usage i
 
 On a real network, transaction fees vary so costs are not predictable. This is one of the problems with DAOs at the moment, particularly for small projects.
 
-Nevertheless, there are ways to minimise these costs and ongoing developments are pushing costs down entirely.
+Nevertheless, there are ways to minimise these costs and ongoing developments are pushing costs down. It is expected that many of these actions will be available at negliglible cost soon.
 
-Here is a sample of fees for a bunch of actions but these costs will reduce soon. 
+Here is a sample of fees for a bunch of actions:
+
+ - Set up a DAO with DAOHaus on Gnosis Chain.
+ - Proposes a vote e.g. "pay wallet address X for doing some work for the DAO".
+ - 10 members vote on the proposal.
+ - Vote is processed and associated funds are sent to provider's account.
 
 
-### Couldn't we do this without DAOs and blockchains?
+### Couldn't we do all this without DAOs and blockchains?
 
 Some critics insist that blockchain is overkill and that this kind of project can be done without. It's an important concern, particularly as the technology can claim few successes.
 
@@ -57,9 +62,9 @@ A 'traditional' organisation could have rules insisting that every decision and 
 
 Even today's young DAO platforms offer rich functionality that gives custom design options for organisational activity.
 
-For example, DAOHaus 
+For example, you can expect functionality that lets you set quorum for votes.
 
-This can all be done in non-blockchain orgs by agreeing on the parameters and managing it accordingly. Having it run as standard 
+This can all be done in non-blockchain orgs by agreeing on the parameters and managing it accordingly. Having it run as standard reduces workload and helps ensure that the rules are upheld.
 
 <hr/>
 
