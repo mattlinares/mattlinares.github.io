@@ -48,7 +48,7 @@ Here is a sample of fees for a bunch of actions:
 
 ### Couldn't we do all this without DAOs and blockchains?
 
-Some critics insist that blockchain is overkill and that this kind of project can be done without. It's an important concern, particularly as the technology can claim few successes.
+Some critics insist that blockchain is overkill and most projects can be done better without. It's an important concern particularly as the technology can currently claim few successes.
 
 Whilst we remain in this early age, it's worth clarifying what benefits we hope to find by using DAOs.
 
