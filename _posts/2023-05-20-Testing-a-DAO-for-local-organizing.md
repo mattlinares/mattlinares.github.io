@@ -8,9 +8,9 @@ tags:
   - Blockchain
 permalink: /test-DAO-for-small-organisations
 ---
-The promise of DAOs for organisations of all sorts remains one of the great hopes of blockchain optimists. Cutting out points of centralisation (like having individuals managing the bank account), transparent accounts and voting, and programmable workflows are all part of the allure.
+The promise of DAOs for organisations of all sorts remains one of the great hopes of blockchain optimists. Cutting out points of centralisation (like individuals who manage the bank account), transparent finances and voting, and programmable workflows are all part of the allure.
 
-We'll only really know if they can help by trying them out, so I've started experimenting in settings where they might be useful.
+We'll only really know if they can help by trying them out, so I've started experimenting to see where they might be useful.
 
 Such mini-DAOs let us test examine how they can work to solve a certain problem and also allow an organisation to test how they fit with their work flows.
 
