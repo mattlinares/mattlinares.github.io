@@ -9,7 +9,7 @@ tags:
 permalink: /test-DAO-for-small-organisations
 ---
 
-**Summary: How and why to use a DAO to support local organisations, step by step.**
+**Summary: How and why to use a DAO to manage local organisations, step by step.**
 
 <hr/>
 
