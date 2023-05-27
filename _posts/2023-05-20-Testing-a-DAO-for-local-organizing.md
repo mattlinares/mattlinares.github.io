@@ -8,6 +8,11 @@ tags:
   - Blockchain
 permalink: /test-DAO-for-small-organisations
 ---
+
+**Summary: How and why to use a DAO to support local organisations, step by step.**
+
+<hr/>
+
 The promise of DAOs for organisations of all sorts remains one of the great hopes of blockchain optimists. Cutting out points of centralisation (like individuals who manage the bank account), transparent finances and voting, and programmable workflows are all part of the allure.
 
 We'll only really know if they can help by trying them out, so I've started experimenting to see where they might be useful.
@@ -32,11 +37,9 @@ To show the specifics of how the DAO is actually used, we track actions on this 
 
 Much like other web services, there are costs attached to using DAOs, specifically transaction costs to run the various actions on the blockchain and make things happen e.g. finalising votes, paying suppliers, etc.
 
-On a test network, such as the one we're using for our experiment above, usage is actually free. However, the currency used on test networks has no value so doesn't offer the true effects such as real payments reflecting the outcome of a vote.
+On a test network, such as the one we're using for our experiment above, usage is actually free. However, the currency used on test networks has no value so doesn’t offer the full outcome such as real payments following a group decision.
 
-On a real network, transaction fees vary so costs are not predictable. This is one of the problems with DAOs at the moment, particularly for small projects.
-
-Nevertheless, there are ways to minimise these costs and ongoing developments are pushing costs down. It is expected that many of these actions will be available at negliglible cost soon.
+On a real network, transaction fees vary so costs are not entirely predictable. This can be a problem with DAOs at the moment, particularly for small projects. Nevertheless, there are ways to minimise these costs and ongoing developments are pushing costs down – they should be negliglible soon.
 
 Here is a sample of fees for a bunch of actions:
 
