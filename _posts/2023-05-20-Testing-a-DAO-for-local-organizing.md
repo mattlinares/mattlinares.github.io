@@ -71,9 +71,12 @@ This can all be done in non-blockchain orgs by agreeing on the parameters and ma
 
 #### Wallets and voting feel empowering
 
-There’s something powerful about having your digital wallet, with DAO tokens and voting capacities built in, right there as you browse. This way of experiencing the web activates people and renews the potential for meaningful, online collaboration.
+There’s something powerful about having your digital wallet in your browser bar, ready to vote or spend tokens. This way of experiencing the web activates people and brings potential for meaningful, online collaboration.
 
-This is strikes you when you see a new user sign a blockchain transaction for the first time.
+This strikes you when you see a user make a blockchain transaction for the first time.
+
+We hope that it may yield <a href="https://www.opendemocracy.net/en/digitaliberties/blockchain-may-redefine-the-web-its-up-to-us-to-make-sure-its-done-well/">a renewal of civic organising</a>.
+
 
 <hr/>
 
