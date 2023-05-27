@@ -9,7 +9,7 @@ tags:
 permalink: /test-DAO-for-small-organisations
 ---
 
-**Summary: How and why to use a DAO to manage local organisations, step by step.**
+<p class="grad-back">Summary: How and why to use a DAO to manage local organisations, step by step.</p>
 
 <hr/>
 
@@ -21,9 +21,9 @@ Such mini-DAOs let us test examine how they can work to solve a certain problem 
 
 ### DAO to manage a social centre’s building storage
 
-Here's a test DAO with a social design group to manage the design of better storage solutions for the organisation’s event space. The budget is a small amount ~£200 from the organisational budget. 
+So here's a test DAO with a social design group to manage the design of better storage solutions for the organisation’s event space. The budget is a small amount ~£200 from the organisational budget. 
 
-We needed to explain how the DAO would be used by the members, for what actions, at what cost, and for what benefit. I created the resource [**DAOs in practice**](https://www.crypticalstudios.com/daos-in-practice) to help.
+We need to explain how the DAO would be used by the members, for what actions, at what cost, and for what benefit. So I created the resource [**DAOs in practice**](https://www.crypticalstudios.com/daos-in-practice) to help.
 
 Then, we began testing with a functional DAO. We actually used a DAO on a test blockchain, which can be used without spending cryptocurrency, that is, for free. If we decide that it's working well, then we can establish it on a real-value blockchain.
 
