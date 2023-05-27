@@ -51,7 +51,7 @@ Here is a sample of fees for a bunch of actions:
 
 ### Couldn't we do all this without DAOs and blockchains?
 
-Some critics insist that blockchain is overkill and most projects can be done better without. It's an important concern particularly as the technology can currently claim few successes.
+Some critics say that blockchain is overkill and most projects can be done better without. It’s an important concern particularly as the technology can currently claim few successes.
 
 Whilst we remain in this early age, it's worth clarifying what benefits we hope to find by using DAOs.
 
@@ -61,13 +61,19 @@ Every DAO decision, including those that lead to funding actions, is made by and
 
 A 'traditional' organisation could have rules insisting that every decision and expenditure is made by and documented for all. However, trusted treasurers can often act independently. This is just not possible if a DAO has been set up properly.
 
-#### Programmability
+#### Customisations
 
 Even today's young DAO platforms offer rich functionality that gives custom design options for organisational activity.
 
 For example, you can expect functionality that lets you set quorum for votes.
 
 This can all be done in non-blockchain orgs by agreeing on the parameters and managing it accordingly. Having it run as standard reduces workload and helps ensure that the rules are upheld.
+
+#### Wallets and voting feel empowering
+
+There’s something powerful about having your digital wallet, with DAO tokens and voting capacities built in, right there as you browse. This way of experiencing the web activates people and renews the potential for meaningful, online collaboration.
+
+This is strikes you when you see a new user sign a blockchain transaction for the first time.
 
 <hr/>
 
