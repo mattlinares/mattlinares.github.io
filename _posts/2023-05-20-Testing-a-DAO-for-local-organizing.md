@@ -68,7 +68,7 @@ This can all be done in non-blockchain orgs by agreeing on the parameters and ma
 
 <hr/>
 
-» If you need help to understand if a DAO could work for your project, [send an email](mailto:matthewlinares@protonmail.com).
+» If you need help to understand how a DAO could work for your project, [send an email](mailto:matthewlinares@protonmail.com).
 
 
 ## More resources for starting with DAOs
