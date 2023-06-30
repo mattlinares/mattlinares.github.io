@@ -17,6 +17,10 @@ These options means we can design totally new organisational structures. Plenty 
 
 Here I outline a few such visions based on my own ideas and those of others.
 
+
+- Dog-share DAO: Managing dog ownership costs and decisions together
+
+
 **Resources**
 
 “Here’s a basic guide to setting up the tools to create and use a DAO, as an administrator or a user.” [https://www.crypticalstudios.com/how-to-dao](https://www.crypticalstudios.com/how-to-dao)
