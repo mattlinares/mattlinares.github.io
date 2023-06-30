@@ -30,7 +30,7 @@ To show the specifics of how the DAO is actually used, we track actions on this 
 
 ### Costs of service
 
-Much like other web services, there are costs attached to using DAOs, specifically transaction costs to run the various actions on the blockchain and make things happen e.g. finalising votes, paying suppliers, etc.
+Much like other web services, there are costs attached to using DAOs, specifically transaction costs to run the various actions on the blockchain and make things happen e.g. finalising votes, transferring payments to suppliers, etc.
 
 On a test network, such as the one we're using for our experiment above, usage is actually free. However, the currency used on test networks has no value so doesn't offer the true effects such as real payments reflecting the outcome of a vote.
 
