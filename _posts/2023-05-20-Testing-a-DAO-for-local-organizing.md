@@ -64,7 +64,9 @@ Even today's young DAO platforms offer rich functionality that gives custom desi
 
 For example, you can expect functionality that lets you set quorum for votes.
 
-This can all be done in non-blockchain orgs by agreeing on the parameters and managing it accordingly. Having it run as standard reduces workload and helps ensure that the rules are upheld.
+This can all be done in non-blockchain orgs by agreeing on the parameters and managing it accordingly. Having it run as the default by a DAO, however, reduces workload and helps ensure that the rules are upheld.
+
+Note, these benefits are far more likely to take effect under certain conditions, e.g. at scale, or with participants who may not know and trust each other so well.
 
 <hr/>
 
