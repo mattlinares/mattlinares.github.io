@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-excerpt: Curated lists can guide standards in tech
+excerpt: Curated lists can guide standards in AI and tech
 tags:
   - Thought
   - AI
