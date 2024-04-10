@@ -43,7 +43,7 @@ What metrics would we want to rate web crawlers on? A few options include:
 - How they use the data that they scrape e.g. commercially, with citations to the source.
 - How often they visit, thus how they might impact site performance.
 
-<div class="image-full"><img src="/images/ai-bots-metrics.png" class="image-right">
+<div class="image-full"><img src="/images/ai-bot-metrics.png" class="image-right">
 	The metrics box now in the ai-robots GitHub repo.
 </div>
 
