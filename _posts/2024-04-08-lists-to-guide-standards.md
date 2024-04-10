@@ -34,3 +34,23 @@ permalink: /lists-to-guide-standards-in-tech
  This all requires more work to update, And as it accrues more meaning that can add responsibility and risk for the repository maintainer.
 
  Nevertheless, it is a useful example of how important standards can develop from simple open source efforts.
+
+### Rating crawlers
+
+What metrics would we want to rate web crawlers on? A few options include:
+
+- Whether they respect `robots.txt` files.
+- How they use the data that they scrape e.g. commercially, with citations to the source.
+- How often they visit, thus how they might impact site performance.
+
+<div class="image-full"><img src="/images/ai-bots-metrics.png" class="image-right">
+	The metrics box now in the ai-robots GitHub repo.
+</div>
+
+Not all crawlers are undesirable and this sort of data could be used by site operators to decide whether to allow a given bot.
+
+This in turn is a reputational matter, so we would want to ensure that the data is well evidenced (and a disclaimer given on the repo to explain that evidence may not be definitive). So data submissions (probably as a pull request to the repo) should include a description of how the data point was established with a link to supporting evidence. More involved forms of data and proof may become necessarily eventually.
+
+I have added [this element to the AI robots GitHub repo](https://github.com/ai-robots-txt/ai.robots.txt/blob/main/table-of-bot-metrics.md) in the hope that we can expand its impact.
+
+
