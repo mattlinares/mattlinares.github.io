@@ -51,7 +51,7 @@ tagline: Digital home of web producer and opinionator Matt Linares.<br /><a href
 
 {% assign detox = site.posts | where: 'tags', 'detox' %}
 
-  <h3>Digital detoxing</h3>
+  <h3>Digital detox</h3>
 
   {% for post in detox %}
     {% if post.tags contains 'detox' %}
