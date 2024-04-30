@@ -40,7 +40,7 @@ This playful escapade questions your ability to get by outside of the fragile co
 Just before we end at 6pm, we will review our findings, the letters we've written, and pledge to weave these approaches into our daily life.
 
 
-Come grow your analogue self
+Come and grow your analogue self
 ----------------------------
 
 Escape the Digital is a visionary detox event designed to boost your non-digital qualities and spark positive behaviours of change.
@@ -64,7 +64,7 @@ You should bring some snacks. We will go to lunch together at a local cafe (menu
 
 **Does it need to be all day long?**
 
-We have prepared a full day’s worth of activities and suggest that you stick around To experience the whole trip.
+We have prepared a full day’s worth of activities and suggest that you stick around to experience the whole trip.
 
 
 <!-- Testimonials -->
