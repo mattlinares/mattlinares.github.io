@@ -4,6 +4,10 @@ body {
   font-size: 18px;
 }
 
+footer {
+  opacity: 50%;
+}
+
 p {
   margin-bottom: 25px;
   font-size: 18px;
@@ -88,6 +92,9 @@ p {
 
 #shares {
   margin: 20px 0 0 30px;
+  display: inline;
+  text-align: right;
+  opacity: 80%;
 }
 
 /* Profile bits */
@@ -166,7 +173,9 @@ ul.posts {
 /* post-full*/
 .post-full .date {
   margin-bottom: 20px;
-  font-weight: bold; }
+  font-weight: bold;
+  text-align: right;
+}
 
 /* tag_box */
 .tag_box {
