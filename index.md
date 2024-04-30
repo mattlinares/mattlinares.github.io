@@ -48,6 +48,29 @@ tagline: Digital home of web producer and opinionator Matt Linares.<br /><a href
     {% endif %}
   {% endfor %}
 
+
+{% assign detox = site.posts | where: 'tags', 'detox' %}
+
+  <h3>Digital detoxing</h3>
+
+  {% for post in detox %}
+    {% if post.tags contains 'detox' %}
+      <li>
+      {% if post.longthumb %}
+      <a href="{{ BASE_PATH }}{{ post.url }}"><img src="{{ post.longthumb }}" class="thumb long-thumb"></a><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a> &raquo;  <span>{{ post.date | date_to_string }}</span><br />{{ post.excerpt }}</li>
+
+        {% elsif post.thumb %}
+        <a href="{{ BASE_PATH }}{{ post.url }}"><img src="{{ post.thumb }}" class="thumb list-thumb"></a><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a> &raquo;  <span>{{ post.date | date_to_string }}</span><br />{{ post.excerpt }}</li>
+
+        {% else %}
+        <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a> &raquo;  <span>{{ post.date | date_to_string }}</span><br />
+        {{ post.excerpt }}</li>
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+
+
+
 {% assign archive = site.posts | where: 'archive', 'true' %}
 
   <h3>Archive</h3>
