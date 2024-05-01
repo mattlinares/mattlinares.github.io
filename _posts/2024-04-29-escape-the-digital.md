@@ -82,6 +82,8 @@ You will really get an opportunity to reflect deeply on how digital devices affe
 [Send us an email](mailto:matthewlinares@protonmail.com?subject=I want to Escape the Digital).
 
 
-<!-- **What's the location?** -->
+**What's the location?**
+
+We usually host the event in private studio or office spaces in London. we can also bring the work to you across the UK or anywhere in the world by arrangement.
 
 <!-- Testimonials -->
