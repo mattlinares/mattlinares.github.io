@@ -24,7 +24,7 @@ The day’s agenda
 
 The day starts at 10am as we stow digital devices and reflect on our objectives:
 
-- Learn to cut digital devices out of your routine.
+- Learn ways to cut digital devices out of your routine.
 - Reflect on how you use them and how you would exist without.
 - Develop alternative, analogue routines that you can use going forward.
 
@@ -35,7 +35,7 @@ Next, we warm up with analogue activities for expression such as thoughtful lett
 
 In the afternoon, we dive into a specially designed LARP: you’ll enter the analogue job market. With help from the career advisor, you consider suitable analogue professions, create a CV poster, put it up on local walls, and await the results. Before the day’s out, you may well have found a new job and got paid, all with no reliance on digital devices.
 
-This playful escapade questions your ability to get by outside of the fragile constraints of the digital realm.
+This playful escapade questions your ability to get by outside of the fragile constraints of the digital realm. In doing so, you might need to go a little out of your comfort zone and play a role you never have before – getting a job in the real world is not easy.
 
 Just before we end at 6pm, we will review our findings, the letters we've written, and pledge to weave these approaches into our daily life.
 
@@ -47,24 +47,41 @@ Escape the Digital is a visionary detox event designed to boost your non-digital
 
 Take this opportunity to build a more digitally-independent you.
 
-For more info or to join our next retreat on May 31st 2024, [just send us an email](mailto:matthewlinares@protonmail.com?subject=I want to Escape the Digital).
+For more info or to join our next retreat on May 31st 2024 [just send us an email](mailto:matthewlinares@protonmail.com?subject=I want to Escape the Digital).
 
 <hr><hr>
 
 More info
 ---------
 
-**Who runs the event?**
+**Who hosts the event?**
 
-Matthew Linares is a fair-minded futurist who has worked with and around technology through code, talks, workshops and games. I'll help you enjoy this experience to playfully reframe your ways.
+Matthew Linares is a  futurist who has worked with and around technology through code, talks, workshops and games. I'll help you enjoy this experience to playfully reframe your ways.
 
-**What do you need to bring?**
+**What to bring?**
 
-You should bring some snacks. We will go to lunch together at a local cafe (menu available in advance). Other than that, you won't need anything.
+You might want to bring some snacks to keep you going. We will go to lunch together at a local cafe (menu available in advance). 
+
+If you have existing journalling tools, like a favourite pen and notebook, bring those.
+
+Other than that, you won't need anything.
 
 **Does it need to be all day long?**
 
 We have prepared a full day’s worth of activities and suggest that you stick around to experience the whole trip.
 
+There is actually a multi-day version of this event available for people and teams who want to go deeper. That is, in fact, the preferable way to do this, as it takes some time to start unpicking our habits.
+
+**Will I really learn to cut my devices out?**
+
+You will really get an opportunity to reflect deeply on how digital devices affect your life. Alongside that, we will work with genuine effective alternatives. together, these should have a memorable impact on you, although everyone is different. You will almost certainly have an interesting and fun experience.
+
+
+**How do I sign up?**
+
+Send an email](mailto:matthewlinares@protonmail.com?subject=I want to Escape the Digital).
+
+
+**What's the location?**
 
 <!-- Testimonials -->
