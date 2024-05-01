@@ -56,7 +56,7 @@ More info
 
 **Who hosts the event?**
 
-Matthew Linares is a  futurist who has worked with and around technology through code, talks, workshops and games. I'll help you enjoy this experience to playfully reframe your ways.
+Matthew Linares is a  futurist who critically embraces technology through code, talks, workshops and games. I'll guide you through this experience to playfully reframe your ways.
 
 **What to bring?**
 
