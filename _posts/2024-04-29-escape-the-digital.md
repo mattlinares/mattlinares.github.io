@@ -60,7 +60,7 @@ Matthew Linares is a  futurist who critically embraces technology through code, 
 
 **What to bring?**
 
-You might want to bring some snacks to keep you going. We will go to lunch together at a local cafe (menu available in advance). 
+You might want to bring some snacks. We will go to lunch together at a local cafe (menu available in advance). 
 
 If you have existing journalling tools, like a favourite pen and notebook, bring those.
 
@@ -74,12 +74,12 @@ There is actually a multi-day version of this event available for people and tea
 
 **Will I really learn to cut my devices out?**
 
-You will really get an opportunity to reflect deeply on how digital devices affect your life. Alongside that, we will work with genuine effective alternatives. together, these should have a memorable impact on you, although everyone is different. You will almost certainly have an interesting and fun experience.
+You will really get an opportunity to reflect deeply on how digital devices affect your life. Alongside that, we will work with genuine effective alternatives. Together, these should have a memorable impact on you, although everyone is different. You will almost certainly have an interesting and fun experience.
 
 
 **How do I sign up?**
 
-[Send us an email](mailto:matthewlinares@protonmail.com?subject=I want to Escape the Digital) and we can complete your booking.
+[Send us an email](mailto:matthewlinares@protonmail.com?subject=I want to Escape the Digital) and we can make your booking.
 
 
 **What's the location?**
