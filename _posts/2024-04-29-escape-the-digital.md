@@ -47,7 +47,9 @@ Escape the Digital is a visionary detox event designed to boost your non-digital
 
 Take this opportunity to build a more digitally-independent you.
 
-For more info or to join our next retreat 9am-3pm on Thursday May 30th 2024 [just send us an email](mailto:matthewlinares@protonmail.com?subject=I want to Escape the Digital) and we'll book you in!
+For more info or to join our <strong>next retreat 9am-3pm on Thursday May 30th 2024<strong> [just send us an email](mailto:matthewlinares@protonmail.com?subject=I want to Escape the Digital) and we'll book you in!
+
+[Sign up to get emails about future sessions](https://mailchi.mp/59094c77024f/from-site).
 
 <hr><hr>
 
@@ -80,6 +82,8 @@ You will really get an opportunity to reflect deeply on how digital devices affe
 **How do I sign up?**
 
 [Send us an email](mailto:matthewlinares@protonmail.com?subject=I want to Escape the Digital) and we can make your booking.
+
+[Sign up here to hear about future sessions](https://mailchi.mp/59094c77024f/from-site).
 
 
 **What's the location?**
