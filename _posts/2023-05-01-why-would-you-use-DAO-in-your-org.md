@@ -8,23 +8,23 @@ title: Why use a DAO in your organisation
 ---
 ## Why Do DAO
 
-People often ask “why use a DAO or a blockchain in an organisational context”? It’s a good question. The tools we use play a decisive role in outcomes.
+People often ask “why use a DAO or a blockchain in an organisational context”? It’s a good question.
 
 Related questions include:
 
 - what could you use instead of a DAO?
 - can DAOs give us something that we can’t get elsewhere?
 
-Some people think that DAOs do give us options we can’t get from other setups, such as decentralised control, transparency, and programmability of financial and governance .
+Some people think that DAOs do have benefits we don’t get from other setups, such as decentralised control, transparency, and deep customisation of financial and governance mechanics.
 
-To study this comparison a little more, I’ve drawn up a chart of different organisational toolsets, what they offer, and what they lack. The comparison is tricky because DAOs can substitute for a whole stack of things, so there’s no one-to-one matchup, but we’ll try.
+To study this a little more, I’ve drawn up a chart of different organisational toolsets, what they offer, and what they lack. The comparison is tricky since DAOs can substitute for a whole stack of things, so there’s no one-to-one matchup, but let's try.
 
 Here are the features we’ll consider for each system:
 
 - Decentralisation (less or no dependency on centralised entities like banks)
-- Direct member’s control of resources and decisions
+- Direct member control of resources and decisions
 - Transparency of resources and decisions
-	Members and external parties, like potential funders or collaborators, can see the DAO’s assets 
+	- Members and external parties, like potential funders or collaborators, can see the DAO’s assets 
 - Ability to reflect complexity of organisational decision-making needs
 	Can the system 
 - Conflict resolution
