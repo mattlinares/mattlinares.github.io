@@ -2,7 +2,7 @@
 layout: post
 title: "Optimistic Analog Technology: Independence from digital risks"
 description: "A repository of methods for replacing digital dependence with analog alternatives."
-excerpt: "In my search for alternatives to digital life I have started to consider analog approaches as a kind of technology for living with less digital dependence."
+excerpt: "A repository of methods for replacing digital dependence with analog alternatives."
 category: ""
 tags: [Event, detox]
 permalink: /2024/10/17/detox-is-a-technology-form
