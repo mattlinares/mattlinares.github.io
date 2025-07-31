@@ -5,7 +5,7 @@ description: "A repository of methods for replacing digital dependence with anal
 excerpt: "A repository of methods for replacing digital dependence with analog alternatives."
 category: ""
 tags: [Event, detox]
-permalink: /2024/10/17/detox-is-a-technology-form
+permalink: /oats
 ---
 {% include JB/setup %}
 
