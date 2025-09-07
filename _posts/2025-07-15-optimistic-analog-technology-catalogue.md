@@ -44,7 +44,7 @@ With a view to cataloguing effective traditions whilst inspiring new techniques,
 
 <!-- For more info or to join our <strong>next retreat <strong> [just send us an email](mailto:matthewlinares@protonmail.com?subject=I want to Escape the Digital) and we'll let you know. -->
 
-[Sign up to get emails about future sessions](https://mailchi.mp/59094c77024f/from-site).
+[Sign up to get emails about this project and related work](https://mailchi.mp/59094c77024f/from-site).
 
 
 
