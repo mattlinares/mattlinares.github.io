@@ -36,12 +36,14 @@ With a view to cataloguing effective traditions whilst inspiring new techniques,
 
 **More examples...**
 
-**Message in a bottle** - a physical letter written on a piece of paper and placed in a bottle. 
+**Message in a bottle** - a physical message written on a piece of paper and placed in a hidden container - your friend comes to the bottle in the following days, and then replies. Replaces WhatsApp group chats.
 
 **The Notephone** – a paper notebook and pen attached to your mobile phone case which invites you to jot notes instead of checking your phone. Poems, letters to friends, life plans: the notephone keeps you entertained, or productive, instead of sinking into your phone again.
 
 **Letter lattices** - games and techniques to tempt you into regular letter-writing practice. For example, writing a physical letter to a friend, say Alex, that includes a message for a mutual friend, Sam, and the request that they write a letter to that friend with your message in it. The intention is that Sam will then send you a letter back, perhaps with another message for someone else, to 
 
+[Full repository here.](https://codeberg.org/mattlinares/OptimisticAnalogTechnologies/src/branch/main/directory)
+[We welcome your contributions.](https://codeberg.org/mattlinares/OptimisticAnalogTechnologies/src/branch/main/README.md#how-to-contribute-entries-to-the-catalogue)
 
 
 <hr><hr>
