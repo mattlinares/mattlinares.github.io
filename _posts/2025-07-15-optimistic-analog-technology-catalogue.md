@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Optimistic Analog Technology: Independence from digital risks"
+title: "Optimistic Analog Technology (OATs: Independence from digital risks"
 description: "A repository of methods for replacing digital dependence with analog alternatives."
 excerpt: "A repository of methods for replacing digital dependence with analog alternatives."
 category: ""
@@ -8,6 +8,8 @@ tags: [Event, detox]
 permalink: /oats
 ---
 {% include JB/setup %}
+
+*tldr; OATs is a repository of methods for replacing digital tech with analog alternatives. [Add to the repo here.](https://codeberg.org/mattlinares/OptimisticAnalogTechnologies/src/branch/main/README.md#how-to-contribute-entries-to-the-catalogue)*
 
 When power went out across Spain recently, communities were plunged into chaotic uncertainty as they sought ways to survive without digital devices and networks. They realised how fragile they were, reliant on systems that can fail unexpectedly, either by accident or at the hands of the enemy.
 
@@ -33,6 +35,8 @@ With a view to cataloguing effective traditions whilst inspiring new techniques,
 
 
 **More examples...**
+
+**Message in a bottle** - a physical letter written on a piece of paper and placed in a bottle. 
 
 **The Notephone** – a paper notebook and pen attached to your mobile phone case which invites you to jot notes instead of checking your phone. Poems, letters to friends, life plans: the notephone keeps you entertained, or productive, instead of sinking into your phone again.
 
