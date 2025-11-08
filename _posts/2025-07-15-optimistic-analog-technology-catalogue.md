@@ -42,7 +42,7 @@ With a view to cataloguing effective traditions whilst inspiring new techniques,
 
 **Letter lattices** - games and techniques to tempt you into regular letter-writing practice. For example, writing a physical letter to a friend, say Alex, that includes a message for a mutual friend, Sam, and the request that they write a letter to that friend with your message in it. The intention is that Sam will then send you a letter back, perhaps with another message for someone else, to 
 
-[Full repository here.](https://codeberg.org/mattlinares/OptimisticAnalogTechnologies/src/branch/main/directory)
+[Full repository here.](https://codeberg.org/mattlinares/OptimisticAnalogTechnologies/src/branch/main/directory)<br>
 [We welcome your contributions.](https://codeberg.org/mattlinares/OptimisticAnalogTechnologies/src/branch/main/README.md#how-to-contribute-entries-to-the-catalogue)
 
 
