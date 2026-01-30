@@ -36,6 +36,10 @@ html,body{
   width:100px!important;
 }
 
+a {
+  color: #1380b7 !important;
+}
+
 /* Profile */
 
 .matt-face{

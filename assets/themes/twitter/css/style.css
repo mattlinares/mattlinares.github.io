@@ -212,3 +212,24 @@ ul.posts {
   background: #57A957;
   border: 1px solid #4c964d;
   color: #FFF; }
+
+/* Houndstooth background */
+.visionary-web-section {
+  background-color: #fafafa;
+  background-image: 
+    repeating-linear-gradient(75deg, #fafafa 5px, #fafafa 8px, rgba(0,0,0,0.01) 8px, rgba(0,0,0,0.01) 16px),
+    repeating-linear-gradient(-12deg, #fafafa 0px, #fafafa 8px, rgba(0,0,0,0.01) 8px, rgba(28, 23, 194, 0.01) 16px);
+  background-size: 16px 16px;
+  padding: 10px 20px 20px 30px;
+  margin-bottom: 30px;
+  border-radius: 4px;
+}
+
+.visionary-web-section h3 {
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+
+.visionary-web-section p {
+  margin-bottom: 0;
+}

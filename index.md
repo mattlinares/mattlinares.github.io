@@ -1,9 +1,16 @@
 ---
 layout: page
-title: Projects and thoughts
+title: Practicing technology
 tagline: Digital home of web producer and opinionator Matt Linares.<br /><a href="/profile">See my profile</a> and <a href='mailto:info@microsplash.org'>get in touch</a>.
 ---
 {% include JB/setup %}
+
+<div class="visionary-web-section">
+  <h3>Visionary Tech: <em>Learning new tools</em></h3>
+  <p>Showcasing tech projects to transform society. Sessions introduce ambitious initiatives like egalitarian crypto and DIY internet grids. Guests test the tech and join communities of practice.<br/>
+  <strong>– Spring 2026, London</strong>
+  <br/><a href="https://list.microsplash.org "><strong>Sign up for more info ↠</strong></a></p>
+</div>
 
 <ul class="posts">
 
