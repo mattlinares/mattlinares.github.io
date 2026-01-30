@@ -137,6 +137,14 @@ p {
 .navbar .nav {
   float: right; }
 
+/* Mobile navigation alignment */
+@media (max-width: 767px) {
+  body:not(.profile-page) .navbar .nav {
+    float: left;
+    margin-left: -10px;
+  }
+}
+
 /* posts index */
 
 ul.projects {
