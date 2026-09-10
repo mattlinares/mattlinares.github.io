@@ -29,6 +29,9 @@ production_url : http://mattlinares.github.io
 
 markdown: kramdown
 
+plugins:
+  - jekyll-redirect-from
+
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
 JB :
