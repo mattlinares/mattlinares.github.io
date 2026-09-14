@@ -98,11 +98,12 @@
   }
 
   .inline-jump{
-    background:var(--ink); border:none; padding:.12rem .5rem; margin-left:.4rem;
-    font-family:var(--font-mono); font-size:.68em; color:var(--paper); cursor:pointer;
+    background:none; border:none; padding:0; margin-left:.5rem;
+    font-family:var(--font-mono); font-size:.68em; color:var(--ink-dim); cursor:pointer;
     text-transform:uppercase; letter-spacing:.06em; vertical-align:middle;
+    text-decoration:underline; text-decoration-color:var(--line); text-underline-offset:2px;
   }
-  .inline-jump:hover{ background:var(--red); }
+  .inline-jump:hover{ color:var(--red); text-decoration-color:var(--red); }
 
   /* Format — stamped path */
   .steps{ position:relative; display:flex; flex-direction:column; gap:1.6rem; margin-top:1.6rem; max-width:660px; }
@@ -129,6 +130,19 @@
   .tag a{ color:var(--ink); text-decoration:underline; text-decoration-color:var(--red); text-decoration-thickness:2px; text-underline-offset:3px; }
   .tag a:hover{ color:var(--red); }
   .tag:has(a){ border-color:var(--red); }
+
+  /* Photo frame — a real image treated like a printed plate, not a hero banner */
+  .photo-frame{
+    margin-top:1.2rem; max-width:460px; border:2px solid var(--ink); background:var(--ink);
+  }
+  .photo-frame img{ display:block; width:100%; height:auto; max-height:26vh; object-fit:cover; aspect-ratio:16/9; }
+  .photo-frame.screenshot{ max-width:300px; }
+  .photo-frame.screenshot img{ aspect-ratio:940/511; object-fit:contain; max-height:22vh; }
+  .photo-frame figcaption{
+    font-family:var(--font-mono); font-size:.72rem; letter-spacing:.04em; color:var(--paper);
+    padding:.55rem .8rem; display:flex; justify-content:space-between; gap:1rem;
+  }
+  .photo-frame figcaption a{ color:var(--paper); text-decoration-color:var(--red); }
 
   /* Outputs — stamped list, matches Format/Ask rhythm */
   .outputs{ list-style:none; margin:1.6rem 0 0; padding:0; display:flex; flex-direction:column; gap:1.3rem; max-width:620px; }
@@ -266,8 +280,12 @@
         <li>Host a <strong>Circles group at SPACE4</strong>, a London coworking space</li>
         <li>First run: <strong>2–5 in-person evening events</strong>, e.g. <a href="https://microsplash.org/s4l" target="_blank" rel="noopener">recent web3 game night</a>. Ambassador supports users</li>
         <li>Circles-curious people learn by doing: onboarded into the trust graph, face to face</li>
-        <li>Trial with <strong>Wantoff</strong>, a surplus exchange app (<a href="https://circles.gnosis.io/playground?url=https%3A%2F%2Fwantoff.vercel.app%2F" target="_blank" rel="noopener">Circles Garage winner</a>), <a href="https://wantoff.vercel.app/" target="_blank" rel="noopener">back online</a> as an MVP: likely what we'll actually use<button class="inline-jump" id="goAppendixBtn" type="button">See appendix</button></li>
+        <li>Trial with <strong>Wantoff</strong>, a surplus exchange app (<a href="https://circles.gnosis.io/playground?url=https%3A%2F%2Fwantoff.vercel.app%2F" target="_blank" rel="noopener">Circles Garage winner</a>), <a href="https://wantoff.vercel.app/" target="_blank" rel="noopener">online as MVP</a><button class="inline-jump" id="goAppendixBtn" type="button">See appendix</button></li>
       </ul>
+      <figure class="photo-frame">
+        <img src="images/game-night.jpg" alt="Recent web3 game night event at SPACE4" loading="lazy">
+        <figcaption><span>Recent web3 game night</span><a href="https://microsplash.org/s4l" target="_blank" rel="noopener">Eventbrite ↗</a></figcaption>
+      </figure>
     </div>
   </section>
 
@@ -298,6 +316,10 @@
         <div class="step-body">
           <h3>Social exchange</h3>
           <p>Trade there and then, or list it on Wantoff to follow up.</p>
+          <figure class="photo-frame screenshot">
+            <img src="images/wantoff-screenshot.png" alt="Wantoff app homepage, listing items and skills for exchange" loading="lazy">
+            <figcaption><span>Wantoff, live</span><a href="https://wantoff.vercel.app/" target="_blank" rel="noopener">wantoff.vercel.app ↗</a></figcaption>
+          </figure>
         </div>
       </div>
     </div>
