@@ -175,6 +175,8 @@
   /* Figure plates — screenshots framed like a printed figure, not a web card */
   .plate{ margin-top:1.5rem; max-width:480px; }
   .plate img{ display:block; width:100%; height:auto; border:2px solid var(--ink); }
+  .plate a{ display:block; text-decoration:none; }
+  .plate a:hover img{ border-color:var(--red); }
   .plate figcaption{
     font-family:var(--font-mono); font-size:.72rem; color:var(--ink-dim);
     letter-spacing:.03em; margin-top:.5rem;
@@ -326,6 +328,12 @@
       </div>
     </div>
     <p class="caption">Events ~2 months apart, so people who miss one can catch the next. Wantoff keeps it alive in between.</p>
+    <figure class="plate">
+      <a href="https://wantoff.vercel.app/" target="_blank" rel="noopener">
+        <img src="img/wantoff-shot1.png" alt="The Wantoff homepage, live" loading="lazy">
+      </a>
+      <figcaption>Fig. 3 — <a href="https://wantoff.vercel.app/" target="_blank" rel="noopener">wantoff.vercel.app</a>, live now</figcaption>
+    </figure>
   </section>
 
   <section class="slide" data-title="Location">
