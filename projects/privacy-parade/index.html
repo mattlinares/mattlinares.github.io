@@ -1,0 +1,377 @@
+---
+permalink: /privacyparade/
+redirect_from:
+  - /pp/
+---
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Privacy Parade</title>
+<meta name="description" content="A Halloween walk of conscientious objectors to surveillance. Finsbury Park, 30 October, 6pm, from SPACE4.">
+<meta property="og:title" content="Privacy Parade — 30 October, 6pm, Finsbury Park">
+<meta property="og:description" content="Wander without watchers. A playful walk in disguise, with a serious message about surveillance in our cities.">
+<meta property="og:image" content="https://microsplash.org/projects/privacy-parade/img/ghost-stand.jpg">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700;900&family=IBM+Plex+Mono:wght@400;600&family=Newsreader:opsz,wght@6..72,400;6..72,500&display=swap" rel="stylesheet">
+<script defer src="https://cloud.umami.is/script.js" data-website-id="fad40b9e-00f3-45e6-859f-7fc9a2c9d109"></script>
+<style>
+  :root {
+    --night: #0e100f;
+    --night-2: #171a18;
+    --sheet: #f3efe6;
+    --sheet-dim: #b9b4a8;
+    --leaf: #e98a2b;
+    --rec: #ff3b30;
+    --line: rgba(243, 239, 230, .14);
+    --display: "Big Shoulders Display", Impact, sans-serif;
+    --mono: "IBM Plex Mono", ui-monospace, monospace;
+    --serif: "Newsreader", Georgia, serif;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html { scroll-behavior: smooth; }
+  body {
+    background: var(--night);
+    color: var(--sheet);
+    font-family: var(--serif);
+    font-size: 1.15rem;
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+  }
+  a { color: inherit; }
+  img { display: block; max-width: 100%; }
+
+  /* ---------- HERO ---------- */
+  .hero {
+    min-height: 100svh;
+    display: grid;
+    grid-template-columns: 1.1fr .9fr;
+    align-items: center;
+    gap: clamp(1.5rem, 4vw, 4rem);
+    padding: clamp(1.25rem, 4vw, 3.5rem);
+    max-width: 1400px;
+    margin: 0 auto;
+    position: relative;
+  }
+  h1 {
+    font-family: var(--display);
+    font-weight: 900;
+    text-transform: uppercase;
+    font-size: clamp(4.5rem, 13vw, 11.5rem);
+    line-height: .82;
+    letter-spacing: -.01em;
+  }
+  h1 .out {
+    color: transparent;
+    -webkit-text-stroke: 2px var(--sheet);
+  }
+  .tagline {
+    font-family: var(--serif);
+    font-style: italic;
+    font-size: clamp(1.35rem, 2.4vw, 1.9rem);
+    margin: 1.5rem 0 2rem;
+    color: var(--sheet-dim);
+    max-width: 24ch;
+  }
+  .facts {
+    display: flex;
+    flex-wrap: wrap;
+    gap: .6rem;
+    margin-bottom: 2rem;
+  }
+  .facts span {
+    font-family: var(--mono);
+    font-size: .85rem;
+    border-bottom: 1px solid rgba(243, 239, 230, .35);
+    padding: .45rem .8rem;
+  }
+  .facts span b { color: var(--leaf); font-weight: 600; }
+  .facts a { text-decoration: none; }
+  .facts a:hover { color: var(--leaf); }
+  .cta-row { display: flex; flex-wrap: wrap; gap: .8rem; }
+  .btn {
+    font-family: var(--mono);
+    font-weight: 600;
+    font-size: .9rem;
+    letter-spacing: .06em;
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: .95rem 1.4rem;
+    border: 2px solid var(--sheet);
+    transition: background .15s, color .15s, transform .15s;
+  }
+  .btn.primary { background: var(--sheet); color: var(--night); }
+  .btn:hover { background: var(--leaf); border-color: var(--leaf); color: var(--night); transform: translateY(-2px); }
+
+  /* CCTV frame */
+  .hero > *, .split > * { min-width: 0; }
+  .cam {
+    position: relative;
+    aspect-ratio: 3 / 4;
+    max-height: 86svh;
+    justify-self: center;
+    width: 100%;
+    max-width: 560px;
+    overflow: hidden;
+    background: #000;
+  }
+  .cam img {
+    width: 100%; height: 100%;
+    object-fit: cover;
+    filter: grayscale(.55) contrast(1.08) brightness(.92);
+  }
+  .cam::after { /* scanlines */
+    content: "";
+    position: absolute; inset: 0;
+    background: repeating-linear-gradient(to bottom, rgba(0,0,0,.18) 0 1px, transparent 1px 3px);
+    pointer-events: none;
+  }
+  .hud {
+    position: absolute; inset: 14px;
+    font-family: var(--mono);
+    font-size: .75rem;
+    color: #fff;
+    text-shadow: 0 1px 2px #000;
+    pointer-events: none;
+    z-index: 2;
+  }
+  .hud .corner { position: absolute; width: 26px; height: 26px; border: 2px solid #fff; }
+  .hud .tl { top: 0; left: 0; border-right: 0; border-bottom: 0; }
+  .hud .tr { top: 0; right: 0; border-left: 0; border-bottom: 0; }
+  .hud .bl { bottom: 0; left: 0; border-right: 0; border-top: 0; }
+  .hud .br { bottom: 0; right: 0; border-left: 0; border-top: 0; }
+  .hud .top { position: absolute; top: 8px; left: 38px; right: 38px; display: flex; justify-content: space-between; }
+  .hud .bottom { position: absolute; bottom: 8px; left: 38px; right: 38px; display: flex; justify-content: space-between; }
+  .rec::before {
+    content: ""; display: inline-block; width: 9px; height: 9px; border-radius: 50%;
+    background: var(--rec); margin-right: 6px; vertical-align: 0;
+    animation: blink 1.1s steps(1) infinite;
+  }
+  @keyframes blink { 50% { opacity: 0; } }
+  .target {
+    position: absolute;
+    left: 30%; top: 17%; width: 36%; height: 26%;
+    border: 2px solid var(--leaf);
+    z-index: 2;
+    animation: hunt 6s ease-in-out infinite;
+  }
+  .target span {
+    position: absolute; top: -1.6rem; left: -2px;
+    background: var(--leaf); color: var(--night);
+    font-family: var(--mono); font-size: .7rem; font-weight: 600;
+    padding: .15rem .45rem; white-space: nowrap;
+  }
+  @keyframes hunt {
+    0%, 100% { transform: translate(0, 0); }
+    30% { transform: translate(6%, 4%); }
+    60% { transform: translate(-5%, -3%); }
+  }
+
+  .scroll-cue {
+    position: absolute; bottom: 1.2rem; left: 50%; transform: translateX(-50%);
+    font-family: var(--mono); font-size: .7rem; letter-spacing: .2em; text-transform: uppercase;
+    color: var(--sheet-dim); text-decoration: none;
+  }
+  .scroll-cue::after { content: "↓"; display: block; text-align: center; margin-top: .3rem; animation: bob 1.6s ease-in-out infinite; }
+  @keyframes bob { 50% { transform: translateY(5px); } }
+
+  /* ---------- BELOW THE FOLD ---------- */
+  section { padding: clamp(4rem, 9vw, 7rem) clamp(1.25rem, 4vw, 3.5rem); }
+  .wrap { max-width: 1100px; margin: 0 auto; }
+  h2 {
+    font-family: var(--display); font-weight: 900; text-transform: uppercase;
+    font-size: clamp(2.6rem, 6.5vw, 5rem); line-height: .9; margin-bottom: 1.75rem;
+  }
+  p + p { margin-top: 1rem; }
+  .lede { font-size: clamp(1.3rem, 2.2vw, 1.65rem); line-height: 1.45; max-width: 38ch; }
+
+  .band { background: var(--sheet); color: var(--night); }
+
+  .split { display: grid; grid-template-columns: 1fr 1fr; gap: clamp(2rem, 5vw, 5rem); align-items: center; }
+  .split .photo img { width: 100%; aspect-ratio: 4 / 5; object-fit: cover; object-position: 50% 30%; }
+  .split .photo figcaption { font-family: var(--mono); font-size: .75rem; color: var(--sheet-dim); margin-top: .6rem; }
+
+  .reasons { display: grid; grid-template-columns: repeat(3, 1fr); gap: 2.5rem; margin-top: 2.5rem; }
+  .reason { display: flex; flex-direction: column; }
+  .reason h3 { font-family: var(--display); font-weight: 700; text-transform: uppercase; font-size: 1.7rem; line-height: 1; margin-bottom: .7rem; }
+  .reason h3::before { content: ""; display: inline-block; width: .45em; height: .45em; border-radius: 50%; background: #b4570b; margin-right: .45em; vertical-align: .12em; }
+  .reason p { font-size: 1rem; flex: 1; }
+  .reason a { font-family: var(--mono); font-size: .78rem; font-weight: 600; margin-top: 1.1rem; text-underline-offset: 3px; }
+  .reason a:hover { color: #b4570b; }
+
+  .help-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.25rem; margin-top: 2.5rem; }
+  .card { border: 1px solid var(--line); padding: 1.5rem; }
+  .card h3 { font-family: var(--display); font-weight: 700; text-transform: uppercase; font-size: 1.6rem; line-height: 1; margin-bottom: .6rem; }
+  .card p { font-size: 1rem; color: var(--sheet-dim); }
+
+  .recipe { border-top: 1px solid var(--line); }
+  .steps { list-style: none; margin-top: 2rem; }
+  .steps li { padding: 1.25rem 0; border-bottom: 1px solid var(--line); }
+  .steps strong::before { content: ""; display: inline-block; width: .45em; height: .45em; border-radius: 50%; background: var(--leaf); margin-right: .45em; vertical-align: .12em; }
+  .steps strong { font-family: var(--display); font-weight: 700; text-transform: uppercase; font-size: 1.45rem; display: block; line-height: 1.1; margin-bottom: .2rem; }
+  .steps span { color: var(--sheet-dim); font-size: 1rem; }
+
+  .final { text-align: center; background: var(--leaf); color: var(--night); }
+  .final h2 { margin-bottom: 1rem; }
+  .final p { max-width: 40ch; margin: 0 auto 2rem; }
+  .final .btn { border-color: var(--night); background: var(--night); color: var(--sheet); }
+  .final .btn:hover { background: var(--sheet); color: var(--night); border-color: var(--sheet); }
+
+  footer { padding: 2rem clamp(1.25rem, 4vw, 3.5rem); font-family: var(--mono); font-size: .75rem; color: var(--sheet-dim); display: flex; justify-content: space-between; flex-wrap: wrap; gap: 1rem; }
+  footer .oat { flex-basis: 100%; padding-bottom: 1.25rem; margin-bottom: .25rem; border-bottom: 1px solid var(--line); color: var(--sheet); font-size: .85rem; }
+  footer a { text-underline-offset: 3px; }
+  footer a:hover { color: var(--leaf); }
+
+  @media (max-width: 860px) {
+    .hero { grid-template-columns: 1fr; min-height: auto; padding-top: 2.5rem; padding-bottom: 4.5rem; }
+    .cam { max-height: 70svh; aspect-ratio: 4 / 5; }
+    .split, .reasons, .help-grid { grid-template-columns: 1fr; }
+    .split .photo { order: -1; }
+    .split .photo img { aspect-ratio: 4 / 3; }
+    .tagline { margin: 1.1rem 0 1.5rem; }
+    h1 .out { -webkit-text-stroke-width: 1.5px; }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    *, *::before, *::after { animation: none !important; transition: none !important; }
+    html { scroll-behavior: auto; }
+  }
+</style>
+</head>
+<body>
+
+<header class="hero">
+  <div>
+    <h1>Privacy<br><span class="out">Parade</span></h1>
+    <p class="tagline">Wander without watchers. A walk in disguise, with a serious message.</p>
+    <div class="facts">
+      <span><b>When</b> Fri 30 Oct, 6pm</span>
+      <span><b>Where</b> Finsbury Park station</span>
+      <span><b>From</b> <a href="https://space4.tech/" target="_blank" rel="noopener">SPACE4</a></span>
+    </div>
+    <div class="cta-row">
+      <a class="btn primary" href="#join">Join the parade</a>
+      <a class="btn" href="#why">Why?</a>
+    </div>
+  </div>
+
+  <figure class="cam" aria-label="A person under a white sheet on a London pavement, framed like CCTV footage">
+    <img src="/projects/privacy-parade/img/ghost-stand.jpg" alt="A person entirely covered by a white bedsheet standing on an autumn pavement beside iron railings" width="1200" height="1600">
+    <div class="target"><span>FACE: NO MATCH</span></div>
+    <div class="hud" aria-hidden="true">
+      <i class="corner tl"></i><i class="corner tr"></i><i class="corner bl"></i><i class="corner br"></i>
+      <div class="top"><span class="rec">REC</span><span>CAM 04 · N4</span></div>
+      <div class="bottom"><span id="clock">30-10-2026 00:00:00</span><span>SUBJECT UNKNOWN</span></div>
+    </div>
+  </figure>
+
+  <a class="scroll-cue" href="#what">More</a>
+</header>
+
+<main>
+  <section id="what">
+    <div class="wrap split">
+      <div>
+        <h2>Take back the street, for one evening</h2>
+        <p class="lede">People need ways to assert and explore their right to privacy.</p>
+        <p>The Privacy Parade invites you to wander around Finsbury Park in full disguise, so you can't be tracked by cameras, facial recognition and the other technologies that quietly take our data as we go about our lives.</p>
+        <p>It's a gentle, Halloween-themed walk of conscientious objectors to surveillance. We'll wear garments chosen to keep our faces our own, and carry signs and leaflets for the people who see us pass.</p>
+        <p>It's fun and experimental, and the message is serious.</p>
+      </div>
+      <figure class="photo">
+        <img src="/projects/privacy-parade/img/ghost-walk.jpg" alt="A sheeted figure walking away down a leafy pavement" width="820" height="1087" loading="lazy">
+        <figcaption>Fig. 1: test outfit, N4. Visibility from inside: poor.</figcaption>
+      </figure>
+    </div>
+  </section>
+
+  <section id="why" class="band">
+    <div class="wrap">
+      <h2>Surveillance is growing. Nobody asked us.</h2>
+      <p class="lede">It's spreading through our streets, our supermarkets and our homes. It puts our data at risk, rarely gets properly justified, costs a fortune, and leaves us a less trusting society.</p>
+      <div class="reasons">
+        <article class="reason">
+          <h3>People don't want it</h3>
+          <p>Islington Council voted against live facial recognition. The police went ahead anyway.</p>
+          <a href="https://bigbrotherwatch.org.uk/press-coverage/islington-tribune-police-breach-of-council-ruling-on-facial-recognition-alarming/" target="_blank" rel="noopener">Big Brother Watch →</a>
+        </article>
+        <article class="reason">
+          <h3>It's costly and it doesn't work</h3>
+          <p>A live facial recognition trial at London stations racked up false positives.</p>
+          <a href="https://www.theguardian.com/technology/2026/sep/29/trial-live-facial-recognition-cameras-london-stations-false-positive" target="_blank" rel="noopener">The Guardian →</a>
+        </article>
+        <article class="reason">
+          <h3>It's dangerous</h3>
+          <p>A wrongful arrest lawsuit has put police facial recognition back under scrutiny.</p>
+          <a href="https://www.politico.com/newsletters/digital-future-daily/2026/06/10/wrongful-arrest-suit-sparks-fresh-scrutiny-of-police-facial-recognition-00957560" target="_blank" rel="noopener">Politico →</a>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <section id="join">
+    <div class="wrap">
+      <h2>Companions &amp; helpers wanted</h2>
+      <p class="lede">Playful politics helps people work through topics they may not have the words or energy for in sober, typical politics. Come and play.</p>
+      <div class="help-grid">
+        <div class="card">
+          <h3>Walk with us</h3>
+          <p>Bring a disguise: a sheet, a mask, a cloak, anything that keeps your face your own. Join us on the night.</p>
+        </div>
+        <div class="card">
+          <h3>Be a steward</h3>
+          <p>Help guide the participants. Some of us can't see much from inside our outfits!</p>
+        </div>
+        <div class="card">
+          <h3>Bring ideas</h3>
+          <p>Signs, leaflets, routes, costumes, music. If you've got an idea for how to support this, we'd like to hear it.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="recipe">
+    <div class="wrap">
+      <h2>A recipe for any high street</h2>
+      <p class="lede">The Privacy Parade is a model any group or community can pick up: a way to exercise the right to privacy in a playful, performative way, and to reflect on what our high streets have become.</p>
+      <ul class="steps">
+        <li><div><strong>Gather</strong><span>Meet somewhere friendly (ours is SPACE4) and get into disguise together.</span></div></li>
+        <li><div><strong>Steward</strong><span>Pair the sheeted with the sighted. Agree a short, simple route.</span></div></li>
+        <li><div><strong>Wander</strong><span>Walk slowly past the cameras. Signs and leaflets explain why.</span></div></li>
+        <li><div><strong>Reflect</strong><span>Come back, unmask, and talk about how it felt to go unseen.</span></div></li>
+      </ul>
+      <p style="margin-top:2rem;color:var(--sheet-dim);font-size:1rem">This is a work in progress. Suggestions, improvements and local customisations are welcome.</p>
+    </div>
+  </section>
+
+  <section class="final">
+    <div class="wrap">
+      <h2>See you at 6pm on the 30th<br>(or not)</h2>
+      <p>Get in touch as soon as you can if you'd like to steward, help out or join in.</p>
+      <!-- TODO: real contact link -->
+      <a class="btn" href="#">Get in touch</a>
+    </div>
+  </section>
+</main>
+
+<footer>
+  <p class="oat">Privacy Parade is an <a href="https://microsplash.org/oats" target="_blank" rel="noopener">OAT, an Optimistic Analog Technology</a>. Got one of your own? <a href="https://codeberg.org/mattlinares/OptimisticAnalogTechnologies/src/branch/main/README.md#how-to-contribute-entries-to-the-catalogue" target="_blank" rel="noopener">Add it to the catalogue →</a></p>
+  <span>Privacy Parade · SPACE4 · Finsbury Park, London</span>
+  <span>Organised by Matt</span>
+</footer>
+
+<script>
+  (function () {
+    var el = document.getElementById('clock');
+    if (!el) return;
+    function pad(n) { return String(n).padStart(2, '0'); }
+    function tick() {
+      var d = new Date();
+      el.textContent = '30-10-2026 ' + pad(d.getHours()) + ':' + pad(d.getMinutes()) + ':' + pad(d.getSeconds());
+    }
+    tick(); setInterval(tick, 1000);
+  })();
+</script>
+</body>
+</html>
