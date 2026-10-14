@@ -96,5 +96,4 @@ tagline: Digital home of web producer and opinionator Matt Linares.<br /><a href
   {% endfor %}
 </ul>
 
-
-
+{% include donate.html %}

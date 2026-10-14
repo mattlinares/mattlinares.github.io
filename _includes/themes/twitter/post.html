@@ -7,7 +7,6 @@
     <div class="content">
       {{ content }}
     </div>
-    {% include donate.html %}
     <div class="date">
       <span>{{ page.date | date_to_long_string }}</span>
     </div>
@@ -36,6 +35,8 @@
     </a>
   </div>
   </div>
+
+    {% include donate.html %}
 
 <!--     {{ page.url | share_buttons }} -->
 
