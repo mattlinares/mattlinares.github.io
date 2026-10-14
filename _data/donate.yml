@@ -1,0 +1,29 @@
+# Donation box settings — used by _includes/donate.html
+# Leave a value blank ("") to hide that option.
+# Hide the box on one page with `donate: false` in that page's front matter.
+
+enabled: true
+heading: "Support this work"
+blurb: "Found this useful? A small donation helps it continue."
+
+# Stripe Payment Link with "Customers choose what to pay" (one-off)
+stripe: "https://buy.stripe.com/fZu5kC6PS3L3cA2bQVafS00"
+
+# PayPal.me link or PayPal Donate button URL
+paypal: "https://www.paypal.com/ncp/payment/75P7FNYNHJ3AJ"
+
+# Optional hosted page (Ko-fi / Liberapay / Open Collective) — leave blank if unused
+hosted:
+  label: ""
+  url: ""
+
+# Monthly options for later — fixed-amount Stripe subscription links, e.g.
+#   - label: "£3 / month"
+#     url: "https://buy.stripe.com/..."
+monthly: []
+
+# Crypto: shown in a collapsible section with copy buttons + QR codes
+crypto:
+  - name: "Ethereum / EVM (ETH, USDC on Base, Arbitrum…)"
+    address: "0x50f09996846dcc8B4c6d429F2F41dEea4cD1F9e0"
+    uri: "ethereum"

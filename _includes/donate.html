@@ -1,0 +1,98 @@
+{% assign d = site.data.donate %}
+{% if d.enabled and page.donate != false %}
+<aside class="donate-box" aria-labelledby="donate-heading">
+  {% assign heading = include.heading | default: d.heading %}{% assign blurb = include.blurb | default: d.blurb %}
+  <h3 id="donate-heading">{{ heading }}</h3>
+  {% if blurb != "" %}<p>{{ blurb }}</p>{% endif %}
+
+  <div class="donate-buttons">
+    {% if d.stripe != "" %}<a class="donate-btn donate-primary" href="{{ d.stripe }}" target="_blank" rel="noopener" data-umami-event="donate-stripe">Donate by card</a>{% endif %}
+    {% if d.paypal != "" %}<a class="donate-btn" href="{{ d.paypal }}" target="_blank" rel="noopener" data-umami-event="donate-paypal">PayPal</a>{% endif %}
+    {% if d.hosted.url != "" %}<a class="donate-btn" href="{{ d.hosted.url }}" target="_blank" rel="noopener" data-umami-event="donate-hosted">{{ d.hosted.label }}</a>{% endif %}
+    {% if d.crypto.size > 0 %}<button type="button" class="donate-btn donate-crypto-toggle" aria-expanded="false" aria-controls="donate-crypto" data-umami-event="donate-crypto-open">Crypto</button>{% endif %}
+  </div>
+
+  {% if d.monthly.size > 0 %}
+  <p class="donate-sub">Or give monthly:</p>
+  <div class="donate-buttons">
+    {% for m in d.monthly %}<a class="donate-btn" href="{{ m.url }}" target="_blank" rel="noopener" data-umami-event="donate-monthly">{{ m.label }}</a>{% endfor %}
+  </div>
+  {% endif %}
+
+  {% if d.crypto.size > 0 %}
+  <div class="donate-crypto" id="donate-crypto" hidden>
+    <ul>
+      {% for c in d.crypto %}{% if c.address != "" %}
+      <li>
+        <strong>{{ c.name }}</strong>
+        <div class="donate-addr">
+          <code>{{ c.address }}</code>
+          <button type="button" class="donate-copy" data-addr="{{ c.address }}">Copy</button>
+          <button type="button" class="donate-qr-toggle" data-qr="{% if c.uri %}{{ c.uri }}:{% endif %}{{ c.address }}">QR</button>
+        </div>
+        <div class="donate-qr" hidden></div>
+      </li>
+      {% endif %}{% endfor %}
+    </ul>
+  </div>
+  {% endif %}
+</aside>
+
+{% unless include.unstyled %}
+<style>
+.donate-box { display: flex; flex-wrap: wrap; align-items: center; gap: 6px 14px; margin: 30px 0 15px; padding: 10px 14px; border: 1px solid #ddd; border-radius: 6px; background: #fafaf7; }
+.donate-box h3 { margin: 0; font-size: 17px; line-height: 1.3; }
+.donate-box p { margin: 0; font-size: 15px; line-height: 1.3; flex: 1 1 200px; }
+.donate-buttons { display: flex; flex-wrap: wrap; gap: 6px; margin: 0; }
+.donate-btn { display: inline-block; background: none; font-family: inherit; line-height: 1.3; cursor: pointer; padding: 4px 10px; border: 1px solid #333; border-radius: 4px; color: #333; text-decoration: none; font-size: 14px; }
+.donate-btn:hover { background: #eee; text-decoration: none; color: #333; }
+.donate-primary { background: #6b6b6b; border-color: #6b6b6b; color: #fff; }
+.donate-primary:hover { background: #555; border-color: #555; color: #fff; }
+.donate-box .donate-sub { flex: 0 0 100%; }
+.donate-crypto-toggle[aria-expanded="true"] { background: #eee; }
+.donate-crypto { flex-basis: 100%; }
+.donate-crypto ul { list-style: none; margin: 4px 0 0; padding: 0; }
+.donate-crypto li { margin-bottom: 6px; font-size: 14px; }
+.donate-addr { display: flex; flex-wrap: wrap; align-items: center; gap: 6px; margin-top: 2px; }
+.donate-addr code { word-break: break-all; font-size: 12px; }
+.donate-addr button { font-size: 12px; padding: 1px 6px; cursor: pointer; }
+.donate-qr { margin-top: 6px; }
+</style>
+{% endunless %}
+
+<script>
+(function () {
+  var box = document.currentScript;
+  while (!box.classList.contains('donate-box')) box = box.previousElementSibling;
+  var qrLoaded = null;
+  function loadQR() {
+    if (!qrLoaded) qrLoaded = new Promise(function (res, rej) {
+      var s = document.createElement('script');
+      s.src = 'https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js';
+      s.onload = res; s.onerror = rej;
+      document.head.appendChild(s);
+    });
+    return qrLoaded;
+  }
+  box.addEventListener('click', function (e) {
+    var b = e.target;
+    if (b.classList.contains('donate-crypto-toggle')) {
+      var panel = box.querySelector('.donate-crypto');
+      panel.hidden = !panel.hidden;
+      b.setAttribute('aria-expanded', String(!panel.hidden));
+    } else if (b.classList.contains('donate-copy')) {
+      navigator.clipboard.writeText(b.dataset.addr).then(function () {
+        b.textContent = 'Copied'; setTimeout(function () { b.textContent = 'Copy'; }, 1500);
+      });
+    } else if (b.classList.contains('donate-qr-toggle')) {
+      var el = b.closest('li').querySelector('.donate-qr');
+      if (!el.hidden) { el.hidden = true; return; }
+      el.hidden = false;
+      if (!el.hasChildNodes()) loadQR().then(function () {
+        new QRCode(el, { text: b.dataset.qr, width: 160, height: 160 });
+      });
+    }
+  });
+})();
+</script>
+{% endif %}

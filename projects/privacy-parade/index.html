@@ -231,6 +231,25 @@ redirect_from:
   footer a { text-underline-offset: 3px; }
   footer a:hover { color: var(--leaf); }
 
+  /* ---------- DONATE (markup from _includes/donate.html) ---------- */
+  .donate-box { max-width: 1100px; margin: 0 auto; padding: 1.1rem clamp(1.25rem, 4vw, 3.5rem); display: flex; flex-wrap: wrap; align-items: center; gap: .6rem 1.2rem; }
+  .donate-box h3 { font-family: var(--mono); font-weight: 600; font-size: .78rem; letter-spacing: .08em; text-transform: uppercase; color: var(--sheet-dim); }
+  .donate-box > p { color: var(--sheet-dim); font-size: .9rem; flex: 1 1 220px; }
+  .donate-buttons { display: flex; flex-wrap: wrap; gap: .5rem; }
+  .donate-btn { font-family: var(--mono); font-size: .7rem; letter-spacing: .06em; text-transform: uppercase; text-decoration: none; padding: .35rem .7rem; border: 1px solid var(--line); background: none; color: var(--sheet-dim); cursor: pointer; transition: color .15s, border-color .15s; }
+  .donate-primary { color: var(--sheet); border-color: rgba(243, 239, 230, .35); }
+  .donate-btn:hover, .donate-crypto-toggle[aria-expanded="true"] { color: var(--leaf); border-color: var(--leaf); }
+  .donate-crypto { flex-basis: 100%; }
+  .donate-crypto ul { list-style: none; }
+  .donate-crypto li { font-family: var(--mono); font-size: .75rem; color: var(--sheet-dim); padding: .5rem 0; border-top: 1px solid var(--line); }
+  .donate-crypto strong { font-weight: 400; }
+  .donate-addr { display: flex; flex-wrap: wrap; align-items: center; gap: .5rem; margin-top: .25rem; }
+  .donate-addr code { font-family: var(--mono); color: var(--sheet); word-break: break-all; }
+  .donate-addr button { font-family: var(--mono); font-size: .65rem; text-transform: uppercase; letter-spacing: .06em; padding: .15rem .45rem; background: none; color: var(--sheet-dim); border: 1px solid var(--line); cursor: pointer; }
+  .donate-addr button:hover { border-color: var(--leaf); color: var(--leaf); }
+  .donate-qr { margin-top: .5rem; }
+  .donate-qr img, .donate-qr canvas { border: 6px solid #fff; }
+
   @media (max-width: 860px) {
     .hero { grid-template-columns: 1fr; min-height: auto; padding-top: 2.5rem; padding-bottom: 4.5rem; }
     .cam { max-height: 70svh; aspect-ratio: 4 / 5; }
@@ -362,10 +381,10 @@ redirect_from:
   </section>
 </main>
 
+{% include donate.html unstyled=true heading="Support the parade" blurb="Found this useful? A small donation helps it continue." %}
+
 <footer>
   <p class="oat">Privacy Parade is an <a href="https://microsplash.org/oats" target="_blank" rel="noopener">OAT, an Optimistic Analog Technology</a>. Got one of your own? <a href="https://codeberg.org/mattlinares/OptimisticAnalogTechnologies/src/branch/main/README.md#how-to-contribute-entries-to-the-catalogue" target="_blank" rel="noopener">Add it to the catalogue →</a></p>
-  <span>Privacy Parade · SPACE4 · Finsbury Park, London</span>
-  <span>Organised by Matt</span>
 </footer>
 
 <script>
